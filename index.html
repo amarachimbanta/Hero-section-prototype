@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Frontrunner — Build your Revenue factory</title>
+<meta name="description" content="Animated hero section prototype: a live GTM control room where work flows between every container.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="page-glow" aria-hidden="true"></div>
+
+<header class="nav reveal">
+  <a class="wordmark" href="#">Front runner</a>
+  <nav class="nav-links">
+    <a href="#">Product</a>
+    <a href="#">How it works</a>
+    <a href="#">Integrations</a>
+    <a href="#">Pricing</a>
+  </nav>
+  <div class="nav-right">
+    <a class="login" href="#">Login</a>
+    <a class="btn btn-sm" href="#">Start building</a>
+  </div>
+</header>
+
+<main class="hero">
+  <h1 class="headline reveal d1">Build your<br>Revenue factory</h1>
+  <p class="sub reveal d2">
+    Frontrunner connects your GTM stack and gives AI agents the context to
+    research accounts, find prospects, run campaigns, and qualify inbound so
+    your team can focus on closing.
+  </p>
+
+  <div class="cta reveal d3">
+    <span class="cta-halo" aria-hidden="true"></span>
+    <a class="btn btn-lg" href="#">Start building</a>
+  </div>
+
+  <div class="dash-wrap reveal d4">
+    <div class="dash" id="dash">
+
+      <svg class="flow" id="flow" aria-hidden="true">
+        <defs>
+          <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
+            <feGaussianBlur stdDeviation="3.2" result="b"/>
+            <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+          </filter>
+        </defs>
+        <g id="rails"></g>
+        <g id="comets"></g>
+      </svg>
+
+      <aside class="side">
+        <div class="brand"><span class="brand-mark"></span> Frontrunner</div>
+        <nav class="side-nav">
+          <a class="nav-item is-active" href="#"><i class="ni-dot"></i>Dashboard</a>
+          <a class="nav-item" href="#"><i class="ni-dot"></i>Accounts</a>
+          <a class="nav-item" href="#"><i class="ni-dot"></i>Prospects</a>
+          <a class="nav-item" href="#"><i class="ni-dot"></i>Campaigns</a>
+          <a class="nav-item" href="#"><i class="ni-dot"></i>Inbox</a>
+          <a class="nav-item" href="#"><i class="ni-dot"></i>Settings</a>
+        </nav>
+        <div class="side-foot">
+          <div class="agents">
+            <span class="ag a1"></span><span class="ag a2"></span><span class="ag a3"></span>
+          </div>
+          <span class="agents-txt"><b id="agentsOnline">6</b> agents online</span>
+        </div>
+      </aside>
+
+      <section class="main">
+        <div class="dash-head">
+          <div>
+            <h3>Dashboard</h3>
+            <p>Your agents are working across <b id="acctCount">84</b> accounts</p>
+          </div>
+          <div class="head-right">
+            <div class="search"><span class="mag"></span>Search accounts, prospects…</div>
+            <span class="av av-w"></span><span class="av av-g"></span>
+          </div>
+        </div>
+
+        <div class="stats" id="stats">
+          <div class="card stat" id="stat-0"><span class="s-label">Accounts Researched</span>
+            <div class="s-row"><span class="s-val" data-val="1284">1,284</span><span class="chip">+18%</span></div></div>
+          <div class="card stat" id="stat-1"><span class="s-label">Prospects Found</span>
+            <div class="s-row"><span class="s-val" data-val="9412">9,412</span><span class="chip">+32%</span></div></div>
+          <div class="card stat" id="stat-2"><span class="s-label">Campaigns Live</span>
+            <div class="s-row"><span class="s-val" data-val="18">18</span><span class="chip">+4</span></div></div>
+          <div class="card stat" id="stat-3"><span class="s-label">Replies This Week</span>
+            <div class="s-row"><span class="s-val" data-val="342">342</span><span class="chip">+11%</span></div></div>
+        </div>
+
+        <div class="lower">
+          <div class="card feed" id="feed">
+            <div class="feed-head">
+              <span class="feed-title">Agent Activity</span>
+              <span class="live"><i></i>Live</span>
+            </div>
+            <div class="rows" id="rows"></div>
+          </div>
+
+          <div class="card pipeline" id="pipeline">
+            <span class="p-label">Pipeline Growth</span>
+            <div class="p-val" id="pipeVal">$482K</div>
+            <span class="p-sub">Sourced by agents this quarter</span>
+            <div class="bars" id="bars"></div>
+            <div class="p-foot"><span class="p-delta" id="pipeDelta">+$0 today</span><span class="p-legend"><i></i>Agent sourced</span></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
