@@ -32,7 +32,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
   - LinkedIn, *Lesson from a real moment* or *Decision breakdown*: designing for someone new to Lagos. One screen (journey mode or empty states) and why.
   - X: Lagos is relatable and shareable (like Mikky's Lagos Life post). A clip from the prototype video + one line about being new in Lagos.
   - Humor: Lagos commuting meme, "Google Maps vs the danfo driver".
-- **Facts from me:** _(what my part was vs Eyituoyor's, the commuter problems we found, why journey mode, what empty states show)_
+- **Facts from me:** From my resume: I did UX research and designed **landmark-based navigation** flows that let users find bus routes in **under 30 seconds**. Team project, Nov to Dec 2025. _(still to add: the commuter problems we found, why journey mode)_
 
 ## Nexera ERP (SaaS / B2B)
 - **Link:** https://www.behance.net/gallery/249179373/An-ERP-System-(SaaSB2B-product)
@@ -44,7 +44,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
   - LinkedIn, *Process*: designing a B2B product with Figma, Claude and VS Code. How AI changed my workflow (design engineering).
   - LinkedIn, *Rule + proof*: B2B dashboards should answer "what needs my attention today?" first. Shown on Nexera.
   - X: "designed it in Figma, built it with Claude and VS Code" + a clip.
-- **Facts from me:** _(was it a website or the product UI, what I used Claude for, the screen I'm proudest of)_
+- **Facts from me:** From my resume (Dec 2025 to Mar 2026): led end-to-end design of the multi-module ERP. Onboarding went from **hours to under one minute**, activation up **40%**, **98% task completion** on core workflows. Built the Figma design system (tokens, variables, components) for Inventory, Procurement and Admin. Worked with engineers on handoff using HTML/CSS, improving trial-to-paid through onboarding. _(still to add: what I used Claude for, the screen I'm proudest of)_
 
 ## PleniX (fintech app)
 - **Link:** https://www.behance.net/gallery/248017449/PleniX-UX-Fintech-Casestudy
@@ -56,7 +56,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
   - LinkedIn hook ready to use: "People check their money every day and still feel out of control."
   - LinkedIn, *Mistake I see a lot*: finance apps that show more numbers instead of more clarity.
   - X: one screen, one line on the problem.
-- **Facts from me:** _(what "scattered" meant for the users, the key screen, what I designed the logo around)_
+- **Facts from me:** From my resume (Mar to Apr 2026): user flows and high-fidelity screens for a personal finance app that brings all accounts into one view. _(still to add: the key screen, the logo idea)_
 
 ## Agrixa (agriculture platform), with Akande Enoch
 - **Link:** https://www.behance.net/gallery/244624617/Agrixa-An-Agriculture-Focused-Digital-Solutions
@@ -67,7 +67,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 - **Post angles:**
   - LinkedIn, *Decision breakdown*: designing one product for three very different users (farmer, buyer, logistics).
   - LinkedIn, *Bold claim*: "In African agritech, trust is a harder design problem than the UI."
-- **Facts from me:** _(my part vs Akande's, how a farmer uses it, what "transparent" looks like on screen)_
+- **Facts from me:** From my resume (Dec 2025 to Feb 2026, agrixa.co): designed responsive landing pages that made a complex **AI-powered** agriculture platform clear and conversion-focused, supporting a **projected** 30 to 60% increase in farmers' earnings through transparent pricing. Always say "projected". _(still to add: my part vs Akande's)_
 
 ## Shopwithme (personal project)
 - **Link:** https://www.behance.net/gallery/234611259/Shopwithme-case-study
@@ -78,7 +78,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 - **Post angles:**
   - Humor: "my portfolio's Figma prototype is called 'pratices shit' and it's been public for a year". Swearing on LinkedIn is a risk, so blur it or say "practice s**t".
   - LinkedIn, *Then vs now*: Shopwithme (2025) next to Base360 (2026).
-- **Facts from me:** _(what the app does, what I'd do differently now)_
+- **Facts from me:** From my resume (Jun to Sep 2025): redesigned checkout and payment, cutting transaction delays by **40%**. _(still to add: how that was measured, what I'd do differently now)_
 
 ## Hisense smart refrigerator (mobile app)
 - **Link:** https://www.behance.net/gallery/205694247/Hisense-smart-refridgerator
@@ -95,6 +95,11 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 - **Facts from me:** _(what it tracks, who it's for, why illustration)_
 
 ---
+
+## Not on Behance yet
+### Big_Hub language plugin (Jun 2026)
+- **From my resume:** designed and built a Figma plugin in HTML, CSS and JavaScript that cut localization time by **over 80%** and lets designers localize interfaces inside Figma.
+- **Post angles:** X build post with a screen recording of the plugin. LinkedIn *Process*: "I got tired of a manual task, so I built a plugin." Strong design engineering proof. Worth adding to Behance.
 
 ## Portfolio-wide post ideas
 - **Then vs now** (Felix Lee shape): August 2024, Cycle Diary and Hisense. September 2026, Base360 and an ERP built with Claude and VS Code. What changed in how I work, and one lesson for designers or founders.

@@ -74,6 +74,19 @@ Add new tells to the lists below any time. One per line, lowercase, starting wit
 - impactful
 
 ## Banned phrases
+- hope this message finds you well
+- hope you're doing well
+- i came across your
+- i'm reaching out
+- passionate about
+- great fit
+- perfect fit
+- excited about the opportunity
+- touch base
+- circle back
+- quick call
+- add value to your team
+- leverage my
 - found this valuable
 - repost to reach
 - do well to repost

@@ -26,6 +26,9 @@ This repo holds my design work **and** the system I use to write about it on X a
 | `content/humor.md` | LinkedIn humor: rules, formats, swipe file of screenshots, my results | `/humor-post` |
 | `content/humor/{swipe,mine}/` | Screenshots of humor posts that took off (others' / mine) | `/humor-post` |
 | `content/posts/{linkedin,x}/` | Drafts and published posts: `YYYY-MM-DD-slug.md` | n/a |
+| `pitch/playbook.md` | Pitching founders: the 5 parts, lengths, research checklist, never-write list, pitch log | `/pitch` |
+| `pitch/profile.md` | My proof bank from my resume (exact numbers) and private context | `/pitch` |
+| `pitch/pitches/` | One file per pitch: research, messages, follow-ups | `/pitch` |
 | `index.html`, `styles.css`, `app.js` | Frontrunner hero prototype (`design/projects/frontrunner-hero.md`) | n/a |
 
 ## Flow
@@ -35,6 +38,7 @@ This repo holds my design work **and** the system I use to write about it on X a
 - Posts must sound human. Follow `content/human-writing.md` and run `content/check-post.sh` on every draft until it's clean. No em dashes, ever.
 - Every post brings value. Design posts must answer "so what for the business?" without invented numbers. Position me as valuable, not selling.
 - Writing: `content/voice.md` + the platform file win over generic "best practice".
+- Pitches: never generic. If it works for another company with the name swapped, rewrite it. Never mention years of experience.
 - Never invent metrics, clients or results; pull facts from the code, project file or Figma.
 - Check recent posts before drafting so hooks and topics don't repeat.
 - Code: no build step, no dependencies unless I ask. Respect `prefers-reduced-motion`.
