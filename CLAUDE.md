@@ -16,7 +16,8 @@ This repo holds my design work **and** the system I use to write about it on X a
 | `content/check-post.sh` | Run on any draft: flags dashes, arrows, semicolons, banned words and phrases | n/a |
 | `content/voice.md` | My voice, shared by both platforms. **Read before writing any post.** | n/a |
 | `content/linkedin.md` | LinkedIn rules | `/linkedin-post` |
-| `content/x.md` | X rules | `/x-post` |
+| `content/x.md` | X rules, the unsolicited build formula, X swipe log, mine vs theirs | `/x-post`, `/swipe` |
+| `content/x-swipe/{others,mine}/` | Screenshots of X posts | `/swipe` |
 | `content/swipe.md` | Posts that took off (non-humor): anatomy, structures, swipe log, my posts, what's missing in mine | `/swipe` |
 | `content/swipe/{others,mine}/` | Screenshots of those posts | `/swipe` |
 | `content/design-content.md` | Design posts: the value rule (every post has a business angle), post shapes, swipe log, mine vs theirs | `/linkedin-post`, `/swipe` |

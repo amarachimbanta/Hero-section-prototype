@@ -18,6 +18,7 @@ Use for new images in `content/swipe/others/`, `content/swipe/mine/`, `content/h
 1. **Sort it** by name (mine or theirs) and by type:
    - funny post: `content/humor.md`, images in `content/humor/{mine,swipe}/` (follow `/humor-post` Mode A)
    - design post (about design, UX, product, a design process or a design opinion): `content/design-content.md`, images in `content/design-swipe/{mine,others}/`
+   - an **X post** (X layout: @handle, views count, reposts icon): `content/x.md` swipe log, images in `content/x-swipe/{mine,others}/`
    - anything else: `content/swipe.md`, images in `content/swipe/{mine,others}/`
 2. If I attached it in chat, save it to the right folder as `YYYY-MM-DD-<author>-<topic>.png` (others) or `YYYY-MM-DD-<topic>.png` (mine). Use the post's age in the screenshot to work out the date. If you can't save it, log the file as `(chat, not saved)` and tell me.
 3. Open the image and transcribe the first line exactly.
