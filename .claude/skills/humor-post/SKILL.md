@@ -22,16 +22,20 @@ Use when there are images in `content/humor/swipe/` or `content/humor/mine/` tha
 6. If I attached a screenshot in chat and it isn't in the folder, log it with File = `(chat, not saved)` and remind me to upload the image.
 
 ## Mode B: write a humor post
-1. **Source**: a real moment I give you, or something real from `design/projects/*.md` (a bug, a revision, a decision that took too long). Ask me for a real moment if there's nothing true to work from. Never invent an anecdote.
+1. **Source**: a real moment I give you, or something real from `design/projects/*.md` (a bug, a revision, a decision that took too long). A universal design pain every designer has lived (like the client walking all over the design) also counts. Never invent a personal anecdote ("yesterday my client said...") that didn't happen.
 2. **Keep the mix**: check the last few humor drafts. 80% product design, 20% general LinkedIn humor (see *Mix* in `content/humor.md`).
-3. **Pick a format** that's working in the swipe file (or from *Formats* if the file is still thin). Say which and why in one line.
-4. Write **3 versions**, each a different format or angle. 20 to 120 words each.
-5. **Visual** for each: meme layout, annotated screenshot, mock UI, or text only. Be exact (what's in the image, what the annotation says). If it's a mock UI, offer to build it as HTML in this repo so I can screenshot it.
+3. **Start from *My winning formula*** in `content/humor.md` (labelled meme + one-line situation + friendly fight between jobs). At least 1 of the 3 versions must use it. The other 2 can try other formats from the table, to keep testing. Say which formats and why in one line.
+4. **Build each version visual first, caption second.**
+   - **Visual:** say exactly what it is. For a meme: what's in panel 1 and panel 2 (or the video), the exact label text, image or video, and where to find something like it. For a mock UI or annotated screenshot: what's on screen and the exact text. Offer to build mock UIs as HTML in this repo so I can screenshot them.
+   - **Caption:** follow the caption template in the formula. One line naming the situation, one line that starts the friendly fight or asks the question. 15 to 60 words. Only go longer for a story-style humor post (like the job hunt one), and then follow the *Anatomy* in `content/swipe.md`.
+5. Write **3 versions** this way, each a different angle on the same real moment or three different moments.
 6. **Funny check**, for each version:
    - Would a designer tag a coworker on this? If not, cut it.
    - Does the joke land in the first two lines or the image?
    - Is it punching at the work or me, not at a named person or company?
    - Is there a lesson or moral tacked on the end? Delete it.
+   - Does the visual still get a laugh with no caption? If not, rework the visual, not the caption.
+   - Would someone on the *other* side of the friendly fight (a developer, a PM) laugh too, or just get annoyed? Aim for laugh.
 7. **Human pass** against the *Banned patterns* in `content/human-writing.md`.
 8. Save to `content/posts/linkedin/YYYY-MM-DD-<slug>.md` with `pillar: humor`, using the `/linkedin-post` template. Put the strongest version under `## Post` and the other two under `## Options` (the checker reads both). If a version parodies LinkedIn speak on purpose, add `parody: <phrase>` to the frontmatter.
 9. Run `content/check-post.sh <file>` until clean. Then show me.

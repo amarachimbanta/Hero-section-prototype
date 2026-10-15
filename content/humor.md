@@ -6,6 +6,31 @@ Funny posts get shared because people tag a coworker ("this is literally you"). 
 
 Still follows `content/human-writing.md`. No em dashes, no AI words.
 
+## My winning formula (start here)
+Built from my best humor post: the designer vs client concrete meme, **15,631 impressions, 430 reactions, 62 comments, 15 reposts**. That's about 3x the reach of my job hunt post. Use this structure first, and only switch formats when there's a reason.
+
+1. **The meme is the punchline.** A two-panel labelled meme, ideally a short video. Panel 1: someone doing careful, skilled work, labelled "Designer". Panel 2: something that wrecks it without a care, labelled "*Client". Motion keeps people on the post longer, which LinkedIn rewards.
+2. **The caption names the situation in one line.** "This happens when you give your client the liberty to make decisions on your design." It sets up the meme. It doesn't retell it.
+3. **One spicy line that starts a friendly fight between two groups.** "It's only in design that everyone has a say! Why is it not so in development?" Designers agree, developers push back, both comment. Rivalry between jobs, never a named person or company.
+4. **Universal design pain.** Every designer has had this exact client. That's what makes people tag a coworker and repost (15 reposts).
+5. **Short.** About 35 words of caption. The meme does the work.
+
+**Caption template**
+```
+[One line naming the situation, starting with "This happens when" or "When"]
+
+[One line that compares design to another job, or asks why it's only like this in design]
+```
+
+**Groups that make a good friendly fight:** design vs development, design vs marketing, designers vs PMs, designers vs stakeholders, product design vs graphic design, designers vs "can you just make it pop" people. Keep it playful. The other side should laugh too.
+
+**Meme formats that fit this formula** (two panels, careful work vs the thing that ruins it, or expectation vs what happened):
+- Workers carefully laying tiles / someone walks straight across them.
+- A perfectly stacked Jenga tower / one hand pulling the bottom block.
+- A chef plating a fine dish / someone pouring ketchup on it.
+- Someone painting a road line perfectly straight / a car driving through the wet paint.
+Find the real video or image on a meme site, add the two labels, and keep it under 15s.
+
 ## Mix
 - **80% product design humor**: Figma, stakeholders, design reviews, handoff, dev QA, client feedback, portfolios, the job hunt as a designer.
 - **20% general LinkedIn humor**: procrastination, work life, and parodies of LinkedIn itself.
@@ -35,6 +60,7 @@ Fill in which of these actually work for me as the swipe file grows.
 | **Me explaining X to Y** | Explaining a design idea to an audience that won't get it | Explaining "white space" to a stakeholder who wants three more CTAs |
 | **The list nobody asked for** | Numbered list of honest, slightly petty truths | "Phrases that mean the design review is going badly" |
 | **LinkedIn parody** | Formal LinkedIn announcement voice for a tiny or embarrassing thing, plus a "milestone" image | "Thrilled to announce I finally renamed all my Figma layers. Frame 2847 is now Header." |
+| **Labelled meme (my best)** | Two panels or a short video: careful work, then something wrecking it, with job labels | Workers smoothing concrete = "Designer". Dog running through it = "*Client". **15.6k impressions.** |
 | **Mock UI** | A fake interface that makes the joke | A modal: "Are you sure you want to add another stakeholder?" [Cancel] [Cancel] |
 
 ## Swipe file
@@ -47,12 +73,17 @@ Logged by `/humor-post` from screenshots. One row per screenshot. Reactions/comm
 ## My humor posts
 | Date | File | Format | Hook | Reactions / comments / reposts | What I'd change |
 |---|---|---|---|---|---|
+| ~2026-09-15 (1mo) | `mine/2026-09-15-designer-vs-client-concrete.png` | Labelled meme (video) + friendly fight between jobs | "This happens when you give your client the liberty to make decisions on your design." | 430 / 62 / 15, **15,631 impressions** (my best) | Nothing big, it worked. Test next time: cut the caption to the second line only, and drop the "!" so the question sounds curious, not annoyed. One meme per post, so don't add a second image. |
 | ~2026-10-01 | `../swipe/mine/2026-10-01-still-job-hunting.png` | LinkedIn parody (hook only, then an honest post) | "I'm excited to announce... I'm still job hunting 😂🙈" | 88 / 66 / 12, 5,267 impressions | Drop the "..." and emojis so it's deadpan. Show a clip of my work instead of the borrowed celebration image, or keep the image and add the clip as a second post. Full notes in `content/swipe.md`. |
 
 ## Patterns I'm seeing
 Updated by `/humor-post` once there are 5+ screenshots. What the winners have in common.
 
-Early notes (1 screenshot so far, not a pattern yet):
+Early notes (3 posts so far, 1 from someone else, 2 mine, not a firm pattern yet):
+- **The visual does the most work.** My concrete meme got 3x the reach of my text-heavy job hunt post. Magali's one-liner leaned on the LinkedIn celebration card.
+- **Design-specific beats general.** My best post is pure product design humor. Keep the 80%.
+- **A friendly fight between jobs drives comments.** Design vs development gives both sides a reason to reply.
+- **Short captions.** My best had about 35 words. Magali's had 17.
 - One line can be the whole post.
 - Lowercase and deadpan reads as human and confident.
 - Exact, slightly odd numbers make a joke believable.

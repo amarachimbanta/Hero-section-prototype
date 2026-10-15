@@ -71,6 +71,8 @@ The job hunt post says "I've been leaning into design engineering" but shows not
 The job hunt post ends three times: "If you're going through the same thing...", then "Still job hunting BTW", then "do well to repost 🙏". Each one weakens the others, and a direct repost ask can read as asking for pity. Magali ends once, on the reader, with stakes.
 **Fix:** pick one ending. Either a line for the reader ("you're not imagining how hard this market is") or a clear line for hirers ("if you're hiring a designer who can also build it, I'm here"). Let the post earn the repost.
 
+**Also:** my best post by far is a humor meme (designer vs client concrete video, 15,631 impressions, about 3x the job hunt post). Visuals that tell the joke or show the work on their own are what get me reach. See *My winning formula* in `content/humor.md`.
+
 **Also:** a question-only post (the career one) gets comments but not reach. Give my own answer first (who's talking, something honest), then ask. Same comments, much more for the algorithm and the reader to hold on to.
 
 **Rewrite example:** `content/posts/linkedin/2026-10-15-still-job-hunting-v2.md` is the job hunt post with all three fixes.
