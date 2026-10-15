@@ -22,6 +22,7 @@ See `content/human-writing.md`. It is a hard rule, not a suggestion.
 3. **Teardown**: what a well-known product does well (or doesn't).
 4. **Principle**: one design rule, proven with my own work.
 5. **Process**: how I use Claude / Figma / code in my workflow.
+6. **Humor**: the funny side of design work. See `content/humor.md`. Max 1 post in 3.
 
 ## Posts of mine that performed well (paste here)
 TODO
