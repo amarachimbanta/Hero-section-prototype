@@ -1,40 +1,34 @@
 ---
 date: 2026-10-15
-status: draft   # draft | scheduled | posted
 platform: linkedin
+status: draft   # draft | scheduled | posted
 pillar: build-log
 source: design/projects/frontrunner-hero.md
 ---
 
 ## Hook options
-1. A screenshot can't prove your AI agents are working.
-2. I stopped putting screenshots under SaaS headlines.
-3. This hero dashboard runs itself, and every number is real.
+1. A screenshot of an AI product can't show you the AI working.
+2. I stopped putting a screenshot under the headline and made the dashboard run itself.
+3. Every number in this hero goes up while you watch, and none of it is a loop.
 
 ## Post
-A screenshot can't prove your AI agents are working.
+A screenshot of an AI product can't show you the AI working.
 
-That's the problem with most agent-product heroes. Headline, then a still image of a dashboard. Nothing moves, so nothing is proven.
+That bugged me while I was designing the hero for Frontrunner. The headline talks about agents doing the work, and underneath it sits a still image where nothing happens.
 
-So for the Frontrunner hero, I made the dashboard run itself.
+So I made the dashboard run itself.
 
-Every couple of seconds a packet of light leaves the sidebar, runs through the gutters between the cards, and changes real state:
-→ a stat card ticks up
-→ a new row lands in Agent Activity
-→ Pipeline Growth grows a bar
-→ a CRM sync runs back into Accounts
+Every couple of seconds a small packet of light leaves the sidebar and travels through the gaps between the cards. When it reaches a stat card, the counter ticks up. Then a new row shows up in Agent Activity, the pipeline chart grows a bar, and a CRM sync runs back into Accounts.
 
-Nothing loops. The numbers really accumulate, so it looks different every time you land on it.
+The numbers really add up, so the page looks a bit different every time you land on it.
 
-Two rules I held to:
-1. The headline never moves. Motion goes where the proof is.
-2. With reduced motion turned on, it becomes a clean, fully populated static screenshot.
+I kept the headline completely still. The movement belongs down in the product, where it proves something. The copy can just sit there and be read.
 
-Then I added one more thing: click a sidebar item and it sends that job right away. People play with toys.
+I also made the sidebar clickable. Click Campaigns and it sends a job right away. I didn't plan that at first, but once I could poke it I kept doing it, so I figured other people would too.
 
-What's the hardest thing your product has to *show* rather than say?
+If you have reduced motion turned on, you get a clean static version with everything filled in.
 
-#ProductDesign #SaaS #WebDesign
+#ProductDesign #WebDesign
 
 ## Visual
-15s screen recording, cropped to the dashboard. First frame: a packet mid-trace about to hit a stat card. Include one sidebar click near the end.
+15s screen recording, cropped to the dashboard. First frame: a packet halfway along a trace, about to hit a stat card. Show one sidebar click near the end.
