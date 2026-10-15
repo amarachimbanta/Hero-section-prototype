@@ -47,6 +47,7 @@ Logged by `/humor-post` from screenshots. One row per screenshot. Reactions/comm
 ## My humor posts
 | Date | File | Format | Hook | Reactions / comments / reposts | What I'd change |
 |---|---|---|---|---|---|
+| ~2026-10-01 | `../swipe/mine/2026-10-01-still-job-hunting.png` | LinkedIn parody (hook only, then an honest post) | "I'm excited to announce... I'm still job hunting 😂🙈" | 88 / 66 / 12, 5,267 impressions | Drop the "..." and emojis so it's deadpan. Show a clip of my work instead of the borrowed celebration image, or keep the image and add the clip as a second post. Full notes in `content/swipe.md`. |
 
 ## Patterns I'm seeing
 Updated by `/humor-post` once there are 5+ screenshots. What the winners have in common.

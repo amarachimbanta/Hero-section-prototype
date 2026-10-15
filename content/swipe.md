@@ -49,11 +49,31 @@ One row per screenshot. Counts only if visible in the screenshot. Score = how ma
 ## My posts
 | Date | File | Topic | Structure | Hook | Score | Reactions / comments / reposts |
 |---|---|---|---|---|---|---|
+| ~2026-10-01 (2w) | `swipe/mine/2026-10-01-still-job-hunting.png` | 4 months of job hunting, shifting to design engineering | LinkedIn parody hook, then honest story | "I'm excited to announce... I'm still job hunting 😂🙈" | 6/9 (hits: hook, who's talking, proof, turn, relatable, vulnerable. Misses: reframe is buried, ending is split, visual doesn't show work) | 88 reactions, 66 comments, 12 reposts, 5,267 impressions. Comments 75% of reactions. 12 reposts beats the Magali humor post (9). |
+| ~2026-10-08 (1w) | `swipe/mine/2026-10-08-pause-or-merge-career.png` | Do founders pause their old career (designer, engineer) or merge both? | Open question | "When you migrate from a particular Career path to owning a product as a CEO" | 2/9 (hits: ending asks the reader, face photo. Misses everything else) | 26 reactions, 19 comments, 2 reposts. Comments 73% of reactions. |
 
 ## What's missing in mine
 Filled in by `/swipe` after comparing my screenshots with the swipe log. The top 3 gaps, most important first, each with a concrete fix for my next post.
 
-_Waiting for screenshots of my posts in `content/swipe/mine/`._
+Last updated 2026-10-15, from 2 of my posts vs. the swipe log.
+
+**What's already working:** people talk back. Both my posts get comments at 73 to 75% of reactions, double the Magali ADHD post (36%). The job hunt post got more reposts (12) than her humor post (9). The problem isn't engagement, it's reach: not enough people see the post in the first place. So the fixes are about the first two lines, the visual, and giving people a reason to share.
+
+### 1. Show the work. Neither post has any design in it.
+The job hunt post says "I've been leaning into design engineering" but shows nothing. The career question post has a mirror selfie unrelated to the question. My headline says Product Designer, so the post should make people think "I'd hire her", not only "I feel for her".
+**Fix:** every post that mentions my work gets a 10 to 15s clip or screenshot of something I built (the Frontrunner hero is exactly the design engineering proof the job hunt post was missing).
+
+### 2. Let the hook be deadpan. Don't explain the joke.
+"I'm excited to announce... I'm still job hunting 😂🙈" has a great idea, but the "..." and the two emojis tell people it's a joke before they get it. Magali's version is one flat lowercase sentence and lets the image land it. The career post opens with a general question that has nothing about me in it, so there's no reason to click "see more".
+**Fix:** first line flat, no emoji, with me in it. "i'm excited to announce i'm still job hunting." For a question post, start with my own situation before the question.
+
+### 3. One ending, not three.
+The job hunt post ends three times: "If you're going through the same thing...", then "Still job hunting BTW", then "do well to repost 🙏". Each one weakens the others, and a direct repost ask can read as asking for pity. Magali ends once, on the reader, with stakes.
+**Fix:** pick one ending. Either a line for the reader ("you're not imagining how hard this market is") or a clear line for hirers ("if you're hiring a designer who can also build it, I'm here"). Let the post earn the repost.
+
+**Also:** a question-only post (the career one) gets comments but not reach. Give my own answer first (who's talking, something honest), then ask. Same comments, much more for the algorithm and the reader to hold on to.
+
+**Rewrite example:** `content/posts/linkedin/2026-10-15-still-job-hunting-v2.md` is the job hunt post with all three fixes.
 
 ## Patterns across the winners
 Updated once there are 5+ rows.
