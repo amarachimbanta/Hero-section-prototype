@@ -16,8 +16,12 @@ grep -n -e '→' -e '⇒' -e '➡' <<<"$body" | sed 's/^/  arrow: /' && fail=1
 grep -n ';' <<<"$body" | sed 's/^/  semicolon: /' && fail=1
 
 terms=$(awk '/^## Banned (words|phrases)/{on=1;next} /^## /{on=0} on && /^- /{sub(/^- /,"");print}' "$rules")
+# Parody exception: a post can list banned phrases it uses on purpose, in its frontmatter:
+#   parody: thrilled to, excited to share
+allow=$(awk '/^parody:/{sub(/^parody:[ ]*/,"");print;exit}' "$file" | tr ',' '\n' | sed 's/^ *//;s/ *$//' | tr 'A-Z' 'a-z')
 while IFS= read -r t; do
   [ -z "$t" ] && continue
+  grep -qxF -- "$t" <<<"$allow" && continue
   if grep -qiF -- "$t" <<<"$body"; then
     # whole-word match for single words, substring for phrases
     if [[ "$t" == *" "* || "$t" == *"?"* || "$t" == *":"* ]] || grep -qiwF -- "$t" <<<"$body"; then

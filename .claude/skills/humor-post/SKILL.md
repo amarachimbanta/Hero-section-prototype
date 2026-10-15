@@ -22,14 +22,15 @@ Use when there are images in `content/humor/swipe/` or `content/humor/mine/` tha
 
 ## Mode B: write a humor post
 1. **Source**: a real moment I give you, or something real from `design/projects/*.md` (a bug, a revision, a decision that took too long). Ask me for a real moment if there's nothing true to work from. Never invent an anecdote.
-2. **Pick a format** that's working in the swipe file (or from *Formats* if the file is still thin). Say which and why in one line.
-3. Write **3 versions**, each a different format or angle. 20 to 120 words each.
-4. **Visual** for each: meme layout, annotated screenshot, mock UI, or text only. Be exact (what's in the image, what the annotation says). If it's a mock UI, offer to build it as HTML in this repo so I can screenshot it.
-5. **Funny check**, for each version:
+2. **Keep the mix**: check the last few humor drafts. 80% product design, 20% general LinkedIn humor (see *Mix* in `content/humor.md`).
+3. **Pick a format** that's working in the swipe file (or from *Formats* if the file is still thin). Say which and why in one line.
+4. Write **3 versions**, each a different format or angle. 20 to 120 words each.
+5. **Visual** for each: meme layout, annotated screenshot, mock UI, or text only. Be exact (what's in the image, what the annotation says). If it's a mock UI, offer to build it as HTML in this repo so I can screenshot it.
+6. **Funny check**, for each version:
    - Would a designer tag a coworker on this? If not, cut it.
    - Does the joke land in the first two lines or the image?
    - Is it punching at the work or me, not at a named person or company?
    - Is there a lesson or moral tacked on the end? Delete it.
-6. **Human pass** against the *Banned patterns* in `content/human-writing.md`.
-7. Save to `content/posts/linkedin/YYYY-MM-DD-<slug>.md` with `pillar: humor`, using the `/linkedin-post` template. Put the strongest version under `## Post` and the other two under `## Options` (the checker reads both).
-8. Run `content/check-post.sh <file>` until clean. Then show me.
+7. **Human pass** against the *Banned patterns* in `content/human-writing.md`.
+8. Save to `content/posts/linkedin/YYYY-MM-DD-<slug>.md` with `pillar: humor`, using the `/linkedin-post` template. Put the strongest version under `## Post` and the other two under `## Options` (the checker reads both). If a version parodies LinkedIn speak on purpose, add `parody: <phrase>` to the frontmatter.
+9. Run `content/check-post.sh <file>` until clean. Then show me.

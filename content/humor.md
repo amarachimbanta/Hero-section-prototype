@@ -6,6 +6,11 @@ Funny posts get shared because people tag a coworker ("this is literally you"). 
 
 Still follows `content/human-writing.md`. No em dashes, no AI words.
 
+## Mix
+- **80% product design humor**: Figma, stakeholders, design reviews, handoff, dev QA, client feedback, portfolios, the job hunt as a designer.
+- **20% general LinkedIn humor**: procrastination, work life, and parodies of LinkedIn itself.
+- The 20% widens who sees me. The 80% is why the right people follow.
+
 ## Rules
 - Punch at the work, the process, or myself. Never at a named client, coworker or company.
 - It has to be true. Exaggerate a real moment, don't invent one. Specific beats clever.
@@ -14,6 +19,7 @@ Still follows `content/human-writing.md`. No em dashes, no AI words.
 - One joke per post. Don't stack three bits.
 - Leave a little room for people to add their own version in the comments.
 - Don't explain the joke. No "lol", no "😂", no "IYKYK".
+- Parody exception: a LinkedIn parody can use a banned phrase on purpose ("thrilled to announce"). List it in the draft's frontmatter as `parody: thrilled to` so `check-post.sh` lets it through. Everything else still has to pass.
 - Max 1 humor post in 3. It works best mixed in with real build posts.
 
 ## Formats that travel on LinkedIn
@@ -28,6 +34,7 @@ Fill in which of these actually work for me as the swipe file grows.
 | **The tiny tragedy** | One small, painfully relatable moment told straight | Spent 3 hours on a micro-interaction. Nobody noticed. The PM noticed the typo. |
 | **Me explaining X to Y** | Explaining a design idea to an audience that won't get it | Explaining "white space" to a stakeholder who wants three more CTAs |
 | **The list nobody asked for** | Numbered list of honest, slightly petty truths | "Phrases that mean the design review is going badly" |
+| **LinkedIn parody** | Formal LinkedIn announcement voice for a tiny or embarrassing thing, plus a "milestone" image | "Thrilled to announce I finally renamed all my Figma layers. Frame 2847 is now Header." |
 | **Mock UI** | A fake interface that makes the joke | A modal: "Are you sure you want to add another stakeholder?" [Cancel] [Cancel] |
 
 ## Swipe file
@@ -35,6 +42,7 @@ Logged by `/humor-post` from screenshots. One row per screenshot. Reactions/comm
 
 | Date added | File | Who | Format | Hook (first line) | Why it worked | Reactions / comments |
 |---|---|---|---|---|---|---|
+| 2026-10-15 | `swipe/2026-10-15-magali-de-reu-task-42-days.png` | Magali De Reu (writes for coaches and founders) | LinkedIn parody | "thrilled to announce the task i'd been putting off for 42 days took 4 minutes to complete" | Takes the "thrilled to announce" voice and points it at a universal, slightly shameful truth everyone has lived. The exact numbers (42 days, 4 minutes) make it real. The whole joke is in one line, all lowercase, so it feels like a shrug, not a performance. The LinkedIn "celebrating a milestone" card with a sleeping cartoon lands the punchline a second time. Easy to tag someone and easy to comment "me with my taxes". | 1,885 reactions, 339 comments, 9 reposts (about 3 weeks old). Lots of comments for the reactions, so people replied with their own version. |
 
 ## My humor posts
 | Date | File | Format | Hook | Reactions / comments / reposts | What I'd change |
@@ -42,3 +50,14 @@ Logged by `/humor-post` from screenshots. One row per screenshot. Reactions/comm
 
 ## Patterns I'm seeing
 Updated by `/humor-post` once there are 5+ screenshots. What the winners have in common.
+
+Early notes (1 screenshot so far, not a pattern yet):
+- One line can be the whole post.
+- Lowercase and deadpan reads as human and confident.
+- Exact, slightly odd numbers make a joke believable.
+- LinkedIn's own built-in "celebration" cards double as the visual.
+
+Product design versions of the Magali format to try:
+- "thrilled to announce the button the client said 'feels off' was 1px misaligned and they were right"
+- "excited to share that after 6 rounds of feedback we're going with v1"
+- "happy to announce I renamed 312 Figma layers today. no one will ever know"
