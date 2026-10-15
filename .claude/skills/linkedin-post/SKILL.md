@@ -28,6 +28,10 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 ## Check before showing me
 - [ ] `check-post.sh` says clean
 - [ ] **Value check** (every post, design posts most of all): a founder or hiring manager gets a usable takeaway, a business reason, or a look behind a decision. The post answers "so what for the business?" in plain words, with no invented numbers.
+- [ ] Has **one line people would repost**. Quote it when you show me the draft.
+- [ ] Every claim has a concrete detail (a number, a place, a scene). No "there was progress".
+- [ ] No asks in the post: no "repost", no "open to work". Those go in the first comment if I want them.
+- [ ] The visual does a job (proof, punchline or pun) and the post says what it is.
 - [ ] It positions me as valuable, not as selling. No "DM me for services" unless I ask for it.
 - [ ] Hits at least 6 of the 9 parts of the Anatomy in `content/swipe.md` (say which ones it misses)
 - [ ] No banned pattern from `content/human-writing.md` (contrasts, rule of three, one-word lines, colon setups, broetry)

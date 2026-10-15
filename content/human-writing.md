@@ -74,6 +74,9 @@ Add new tells to the lists below any time. One per line, lowercase, starting wit
 - impactful
 
 ## Banned phrases
+- found this valuable
+- repost to reach
+- do well to repost
 - in today's
 - fast-paced world
 - it's worth noting

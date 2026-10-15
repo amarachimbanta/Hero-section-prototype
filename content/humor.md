@@ -84,6 +84,7 @@ Early notes (3 posts so far, 1 from someone else, 2 mine, not a firm pattern yet
 - **Design-specific beats general.** My best post is pure product design humor. Keep the 80%.
 - **A friendly fight between jobs drives comments.** Design vs development gives both sides a reason to reply.
 - **Short captions.** My best had about 35 words. Magali's had 17.
+- **Meme first, value post second.** Felix Lee posted the serious version of my concrete meme ("Designers are paid to reason", 20 reposts). Plan a value follow-up for every meme that hits. See `content/design-content.md`.
 - One line can be the whole post.
 - Lowercase and deadpan reads as human and confident.
 - Exact, slightly odd numbers make a joke believable.
