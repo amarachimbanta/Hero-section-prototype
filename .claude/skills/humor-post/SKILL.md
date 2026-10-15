@@ -12,6 +12,7 @@ description: Funny LinkedIn posts about design work. Logs and analyses screensho
 4. The last ~10 files in `content/posts/linkedin/`: don't repeat a joke or format, and keep humor to 1 post in 3.
 
 ## Mode A: log screenshots
+(The `/swipe` skill sorts any screenshot and sends humor ones here.)
 Use when there are images in `content/humor/swipe/` or `content/humor/mine/` that aren't in a table in `content/humor.md` yet, or when I attach a screenshot in chat.
 1. Open each new image (Read shows images).
 2. Note: who posted, the first line, the format (match a row in *Formats*, or add a new format), reaction/comment/repost counts **only if visible**.

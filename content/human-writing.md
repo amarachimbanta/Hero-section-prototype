@@ -113,7 +113,7 @@ Add new tells to the lists below any time. One per line, lowercase, starting wit
 - **Rule of three everywhere.** Lists of exactly three adjectives or three short sentences in a row.
 - **One-word dramatic lines.** "Simple." "Wild." "Huge." on their own line.
 - **Rhetorical question, then the answer.** "The result? A 40% lift."
-- **Colon setups.** "Here's what happened:" or "The lesson:" before the point.
+- **Colon setups.** "Here's what happened:" or "The lesson:" before the point. (A colon that opens a real list, like "the second I log off, I:", is fine.)
 - **Every line its own paragraph.** Broetry. Mix 1-line and 2 to 3 line paragraphs.
 - **Ending on a question every single time.** Most posts end on a plain statement.
 - **Perfectly parallel bullets.** Real notes are a bit uneven.

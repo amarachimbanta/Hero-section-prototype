@@ -9,12 +9,14 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 1. `content/human-writing.md`: **hard rules.** No em dashes, no AI words, no AI patterns. Breaking one means the draft isn't done.
 2. `content/voice.md`: who I am (overrides generic advice).
 3. `content/linkedin.md`: platform rules.
-4. The last ~10 files in `content/posts/linkedin/`: don't repeat a hook, pillar or topic.
+4. `content/swipe.md`: the **Anatomy** of posts that took off, the **Structures** that work, and *What's missing in mine*. Every post uses this, design posts included.
+5. The last ~10 files in `content/posts/linkedin/`: don't repeat a hook, pillar or topic.
 
 ## Steps
 1. **Source**: the design/topic I gave you. If nothing, use the latest `design/projects/*.md` and its *Post ideas* section.
 2. **Facts**: pull from code, README, the project file or Figma (use the Figma tools for a figma.com link). Note the 1 to 3 most interesting *decisions*.
-3. Pick one idea + pillar. Say which in one line.
+3. Pick one idea + pillar, and a **structure** from `content/swipe.md`. Say which in one line. Take the shape, not the topic: a design post can use the same structure as a viral personal post.
+   Fix the gaps listed under *What's missing in mine*.
 4. **3 hook options**, each from a different angle (a specific detail, something that went wrong, an outcome).
 5. **Full post** with the strongest hook.
 6. **Visual**: what to record or screenshot, how to crop, first frame.
@@ -24,6 +26,7 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 
 ## Check before showing me
 - [ ] `check-post.sh` says clean
+- [ ] Hits at least 6 of the 9 parts of the Anatomy in `content/swipe.md` (say which ones it misses)
 - [ ] No banned pattern from `content/human-writing.md` (contrasts, rule of three, one-word lines, colon setups, broetry)
 - [ ] Hook works on its own before the "see more" cut
 - [ ] Every claim traceable to real work

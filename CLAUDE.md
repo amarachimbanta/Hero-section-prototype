@@ -16,13 +16,15 @@ This repo holds my design work **and** the system I use to write about it on X a
 | `content/voice.md` | My voice, shared by both platforms. **Read before writing any post.** | n/a |
 | `content/linkedin.md` | LinkedIn rules | `/linkedin-post` |
 | `content/x.md` | X rules | `/x-post` |
+| `content/swipe.md` | Posts that took off (non-humor): anatomy, structures, swipe log, my posts, what's missing in mine | `/swipe` |
+| `content/swipe/{others,mine}/` | Screenshots of those posts | `/swipe` |
 | `content/humor.md` | LinkedIn humor: rules, formats, swipe file of screenshots, my results | `/humor-post` |
 | `content/humor/{swipe,mine}/` | Screenshots of humor posts that took off (others' / mine) | `/humor-post` |
 | `content/posts/{linkedin,x}/` | Drafts and published posts: `YYYY-MM-DD-slug.md` | n/a |
 | `index.html`, `styles.css`, `app.js` | Frontrunner hero prototype (`design/projects/frontrunner-hero.md`) | n/a |
 
 ## Flow
-`/design` makes a project file with *Post ideas*. `/linkedin-post` and `/x-post` draft from those ideas.
+`/design` makes a project file with *Post ideas*. `/linkedin-post` and `/x-post` draft from those ideas, using the structures in `content/swipe.md`. `/swipe` keeps that file learning from screenshots.
 
 ## Rules
 - Posts must sound human. Follow `content/human-writing.md` and run `content/check-post.sh` on every draft until it's clean. No em dashes, ever.
