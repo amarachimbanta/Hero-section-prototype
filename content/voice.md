@@ -3,6 +3,11 @@
 > Platform rules live in `content/linkedin.md` and `content/x.md`. This file is *who I am* on both.
 > Fill in the TODOs; paste real posts of yours, because that's what makes drafts sound like you.
 
+## Who I am on LinkedIn
+- **Amarachi Mbanta**, product designer. Any screenshot with my name is my post.
+- I want to come across as a designer who understands the business: products that convert, keep users and save time.
+- I give value in every post, design posts most of all. I don't sell; I show how I think and let that do the selling.
+
 ## Tone
 - Plain, confident, specific. A designer explaining work to a smart friend.
 - Show the work, explain the decision, share what you learned.

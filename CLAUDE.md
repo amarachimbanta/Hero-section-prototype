@@ -3,6 +3,7 @@
 This repo holds my design work **and** the system I use to write about it on X and LinkedIn.
 
 ## Who I am
+- **Amarachi Mbanta.** In any post screenshot, my name means it's my post. Any other name is someone else's post that moved, used to compare mine against.
 - Product / web designer. I build working prototypes (HTML/CSS/JS, Figma) and share the thinking behind them.
 - Goal: post daily; every post shows real work, not generic advice.
 
@@ -18,6 +19,8 @@ This repo holds my design work **and** the system I use to write about it on X a
 | `content/x.md` | X rules | `/x-post` |
 | `content/swipe.md` | Posts that took off (non-humor): anatomy, structures, swipe log, my posts, what's missing in mine | `/swipe` |
 | `content/swipe/{others,mine}/` | Screenshots of those posts | `/swipe` |
+| `content/design-content.md` | Design posts: the value rule (every post has a business angle), post shapes, swipe log, mine vs theirs | `/linkedin-post`, `/swipe` |
+| `content/design-swipe/{others,mine}/` | Screenshots of design posts that moved / mine | `/swipe` |
 | `content/humor.md` | LinkedIn humor: rules, formats, swipe file of screenshots, my results | `/humor-post` |
 | `content/humor/{swipe,mine}/` | Screenshots of humor posts that took off (others' / mine) | `/humor-post` |
 | `content/posts/{linkedin,x}/` | Drafts and published posts: `YYYY-MM-DD-slug.md` | n/a |
@@ -28,6 +31,7 @@ This repo holds my design work **and** the system I use to write about it on X a
 
 ## Rules
 - Posts must sound human. Follow `content/human-writing.md` and run `content/check-post.sh` on every draft until it's clean. No em dashes, ever.
+- Every post brings value. Design posts must answer "so what for the business?" without invented numbers. Position me as valuable, not selling.
 - Writing: `content/voice.md` + the platform file win over generic "best practice".
 - Never invent metrics, clients or results; pull facts from the code, project file or Figma.
 - Check recent posts before drafting so hooks and topics don't repeat.

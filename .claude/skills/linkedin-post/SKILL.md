@@ -10,7 +10,8 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 2. `content/voice.md`: who I am (overrides generic advice).
 3. `content/linkedin.md`: platform rules.
 4. `content/swipe.md`: the **Anatomy** of posts that took off, the **Structures** that work, and *What's missing in mine*. Every post uses this, design posts included.
-5. The last ~10 files in `content/posts/linkedin/`: don't repeat a hook, pillar or topic.
+5. **Design posts:** `content/design-content.md`. The value rule, the business angle, the shapes, and *Mine vs theirs*.
+6. The last ~10 files in `content/posts/linkedin/`: don't repeat a hook, pillar or topic.
 
 ## Steps
 1. **Source**: the design/topic I gave you. If nothing, use the latest `design/projects/*.md` and its *Post ideas* section.
@@ -26,6 +27,8 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 
 ## Check before showing me
 - [ ] `check-post.sh` says clean
+- [ ] **Value check** (every post, design posts most of all): a founder or hiring manager gets a usable takeaway, a business reason, or a look behind a decision. The post answers "so what for the business?" in plain words, with no invented numbers.
+- [ ] It positions me as valuable, not as selling. No "DM me for services" unless I ask for it.
 - [ ] Hits at least 6 of the 9 parts of the Anatomy in `content/swipe.md` (say which ones it misses)
 - [ ] No banned pattern from `content/human-writing.md` (contrasts, rule of three, one-word lines, colon setups, broetry)
 - [ ] Hook works on its own before the "see more" cut
