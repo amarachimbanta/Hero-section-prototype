@@ -1,8 +1,9 @@
 ---
 date: 2026-10-15
 status: draft   # draft | scheduled | posted
-format: build-log
-source: index.html / README.md (Frontrunner hero)
+platform: linkedin
+pillar: build-log
+source: design/projects/frontrunner-hero.md
 ---
 
 ## Hook options

@@ -1,24 +1,27 @@
 # CLAUDE.md
 
-This repo holds my design prototypes **and** the system I use to write about them on LinkedIn.
+This repo holds my design work **and** the system I use to write about it on X and LinkedIn.
 
 ## Who I am
 - Product / web designer. I build working prototypes (HTML/CSS/JS, Figma) and share the thinking behind them.
-- Audience on LinkedIn: founders, product designers, marketers at SaaS companies.
-- Goal: post once a day; every post should show real work, not generic advice.
+- Goal: post daily; every post shows real work, not generic advice.
 
 ## Repo map
-| Path | What it is |
-|---|---|
-| `index.html`, `styles.css`, `app.js` | Frontrunner animated hero prototype (see `README.md`) |
-| `linkedin/voice.md` | **My writing voice. Read before writing anything for LinkedIn.** |
-| `linkedin/posts/` | One file per post: `YYYY-MM-DD-slug.md` (drafts and published) |
-| `linkedin/breakdowns/` | Design breakdowns: the long-form "why" behind a design |
-| `.claude/skills/` | Skills: `/linkedin-post`, `/design-breakdown` |
+| Path | What it is | Skill |
+|---|---|---|
+| `design/DESIGN.md` | How I design and build: principles, tokens, architecture, build conventions, QA | `/design` |
+| `design/projects/<slug>.md` | One file per project: architecture + build log + breakdown + post ideas | `/design` |
+| `content/voice.md` | My voice, shared by both platforms. **Read before writing any post.** | n/a |
+| `content/linkedin.md` | LinkedIn rules | `/linkedin-post` |
+| `content/x.md` | X rules | `/x-post` |
+| `content/posts/{linkedin,x}/` | Drafts and published posts: `YYYY-MM-DD-slug.md` | n/a |
+| `index.html`, `styles.css`, `app.js` | Frontrunner hero prototype (`design/projects/frontrunner-hero.md`) | n/a |
 
-## How to work with me
-- For LinkedIn writing: follow `linkedin/voice.md` strictly. If it conflicts with general "best practice", my voice wins.
-- Pull facts from the actual design (code, README, Figma). Never invent metrics, clients or results.
-- Before drafting, check `linkedin/posts/` so you don't repeat a recent hook or topic.
-- Give me 2–3 options for the hook, then one full post. Keep it skimmable on a phone.
-- For code: no build step, no dependencies unless I ask. Respect `prefers-reduced-motion`.
+## Flow
+`/design` → project file with *Post ideas* → `/linkedin-post` and `/x-post` draft from those ideas.
+
+## Rules
+- Writing: `content/voice.md` + the platform file win over generic "best practice".
+- Never invent metrics, clients or results; pull facts from the code, project file or Figma.
+- Check recent posts before drafting so hooks and topics don't repeat.
+- Code: no build step, no dependencies unless I ask. Respect `prefers-reduced-motion`.
