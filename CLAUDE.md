@@ -11,6 +11,7 @@ This repo holds my design work **and** the system I use to write about it on X a
 | Path | What it is | Skill |
 |---|---|---|
 | `design/DESIGN.md` | How I design and build: principles, tokens, architecture, build conventions, QA | `/design` |
+| `design/portfolio.md` | My Behance portfolio: every project, facts, business angle, post angles. "Write me a post on X" = a project here | `/portfolio-post` |
 | `design/projects/<slug>.md` | One file per project: architecture + build log + breakdown + post ideas | `/design` |
 | `content/human-writing.md` | **Hard rules:** no em dashes, no AI words or patterns. Every post must pass it. | n/a |
 | `content/check-post.sh` | Run on any draft: flags dashes, arrows, semicolons, banned words and phrases | n/a |
