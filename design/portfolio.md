@@ -97,6 +97,18 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 ---
 
 ## Not on Behance yet
+### QuieTell (mobile app for cat owners), Oct 2026
+- **Source:** photo of my Figma file (2026-10-12). Details below are only what's visible in it.
+- **What's visible:** 5 App Store screenshots and a profile screen, light and dark mode.
+  - "You're not the only one wondering": community feed ("Real questions, see how other owners handle the same things")
+  - "Every check-in, on record": "Filter by changes, flags, or weekly check-ins. Show your vet exactly what shifted and when." (Yuki's Health, "Nothing looks off")
+  - "Find your cat people": "Add friends and follow owners whose cats are like yours."
+  - "Light or dark mode, your choice" and "Made to fit you"
+  - Profile: cat profile (Yuki), vet clinic, daily reminder, weekly check-in
+- **Business angle:** App Store screenshots decide installs. Each headline sells an owner's worry, not a feature.
+- **Posts used:** 2026-10-16 LinkedIn, App Store screenshots.
+- **Facts from me:** _(what QuieTell is in one line, who it's for, what changed on the home screen and why, client or personal project)_
+
 ### Big_Hub language plugin (Jun 2026)
 - **From my resume:** designed and built a Figma plugin in HTML, CSS and JavaScript that cut localization time by **over 80%** and lets designers localize interfaces inside Figma.
 - **Post angles:** X build post with a screen recording of the plugin. LinkedIn *Process*: "I got tired of a manual task, so I built a plugin." Strong design engineering proof. Worth adding to Behance.
