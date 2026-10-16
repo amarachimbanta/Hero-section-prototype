@@ -1,7 +1,7 @@
 ---
 date: 2026-10-16
 platform: linkedin
-status: draft
+status: posted
 pillar: personal
 structure: Mirror of Magali's ADHD post (identity + tension hook, the turn, a quotable line, ends on the reader with stakes)
 source: my own story (mum's call), told to Claude 2026-10-16
