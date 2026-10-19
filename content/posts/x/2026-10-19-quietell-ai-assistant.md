@@ -13,7 +13,7 @@ QuieTell check-ins give cat owners a list of options.
 
 but cats don't read the options.
 
-so I added an AI assistant. if what's wrong isn't on the list, or you can't find the words, just describe it and it helps you get clear.
+so I added an AI assistant. if what's wrong isn't on the list, or you can't find the words, describe it and it helps you get clear.
 
 not a core feature. it's there for the unsure moments.
 
