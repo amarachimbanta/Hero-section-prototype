@@ -39,11 +39,28 @@ Stakes line (what changes if they get it)
 **Design version to try** (needs my real details, don't invent them):
 At work I can spot a 1px misalignment across the room, name a font from a blurry screenshot, and get a stakeholder to agree on a layout. On my own stuff I [real things: a portfolio not updated since X, a side project in its Nth version, a desktop with N screenshots]. Reframe: "Designing for other people is easier than designing for yourself because nobody is giving you a brief."
 
+### 2. Milestone thank-you (from Alisha M., 24K followers)
+```
+Hook: the milestone, with the "stuck" before it ("The same account that felt stuck for weeks just reached 260K+ impressions")
+The low part, honest and short ("The views were low. The likes were quiet.")
+Real numbers for the up and down (20K to 22K slow, 22K to 24K easy)
+Admit you don't fully know why
+The line that sums it up ("I'm glad I kept showing up, even when it felt like I was talking to myself")
+Thank the people, specifically (comments, DMs, people who disagreed respectfully)
+Short close
+An easy question about the reader ("How did we first connect here?")
+Face photo with the milestone written on it
+```
+**Why the ending works:** "How did we first connect here?" is the easiest comment there is. Everyone has an answer, nobody has to think. That's how she got 202 comments on 251 reactions.
+
+**Design version to try** (needs my real milestone, don't invent one): a portfolio or work milestone told the same way. The stuck part, the real numbers, what kept me going, thanks, then one easy question for the reader. Example question: "What was the first design you were proud of?"
+
 ## Swipe log
 One row per screenshot. Counts only if visible in the screenshot. Score = how many of the 9 anatomy parts it hits.
 
 | Date added | File | Who | Topic | Structure | Hook (first line) | Score | Reactions / comments / reposts | Why it worked |
 |---|---|---|---|---|---|---|---|---|
+| 2026-10-19 | `swipe/others/2026-10-19-alisha-m-24k-milestone.png` | Alisha M. (HR and talent acquisition) | Reaching 24K followers after a slow month | Milestone thank-you | "The same account that felt stuck for weeks just reached 260K+ impressions on one post in two days" | 8/9 (misses: a reframe line people would repost) | 251 reactions, **202 comments**, 13 reposts | The hook pairs the win with the struggle before it, so it reads as earned, not bragging. Honest low point in short lines ("The views were low. The likes were quiet."). Real numbers for both the slow part and the easy part. She admits she doesn't know why it changed, which feels human. She thanks people for specific things, including people who disagreed. The last line is a question anyone can answer in two seconds ("How did we first connect here?"), so comments are 80% of reactions. Face photo with "24K FOLLOWERS, thank you for being here" and her analytics chart as proof. |
 | 2026-10-15 | `swipe/others/2026-10-15-magali-de-reu-adhd.png` | Magali De Reu (LinkedIn ghostwriter for coaches and founders) | ADHD, being good at hard things and bad at easy things | Mirror lists | "I'm 36. A woman born with ADHD. On LinkedIn, it has me killing it. But the second I close the laptop, it starts killing ME:" | 9/9 | 691 reactions, 247 comments, 5 reposts (1 week old) | The hook packs age, identity and a flip ("killing it" / "killing ME") into two lines. The two lists mirror each other, so the contrast does the work without explaining. The fail list is tiny, real stuff (wet laundry for 3 days, a parking ticket that doubled, "answer clients in 4 minutes, friends in 4 days") that people recognise in themselves. It ends on the reader ("before you call someone lazy, ask yourself") and raises the stakes ("the next 30 years"). A plain face photo, no design, feels personal. Comments are 36% of reactions, which is very high: people replied with their own story. |
 
 ## My posts
@@ -78,6 +95,7 @@ The job hunt post ends three times: "If you're going through the same thing...",
 **Rewrite example:** `content/posts/linkedin/2026-10-15-still-job-hunting-v2.md` is the job hunt post with all three fixes.
 
 ## Patterns across the winners
+- **The easiest question gets the most comments.** Alisha's "How did we first connect here?" got 202 comments. Questions about the reader's own life beat questions that need an opinion.
 Updated once there are 5+ rows.
 
 Early notes (1 post, not a pattern yet):

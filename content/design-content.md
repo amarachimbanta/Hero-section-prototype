@@ -39,6 +39,7 @@ Add to this list as the swipe log grows.
 | **Then vs now + the one thing** (Felix Lee, ADPList) | Where it started, where it is now with real numbers, "people ask what changed", the one thing nobody talks about, a line for founders | The one decision behind growth. For me: a project or a client's product, before and after, and the one design call that made the difference |
 | **Bold claim + why + fix + quotable line** (Felix Lee) | A claim about design everyone half-agrees with, why it happens, what actually works, one line people repost | Teaches founders how to judge design. For me: "how to give design feedback that helps", "why your redesign didn't move sign-ups" |
 | **Trend reaction + stance** (Ruslan Kosinov) | Take something everyone is talking about this week, pick a side, tell a short personal story, borrow the viral screenshot as the visual | Shows I have opinions about where design and hiring are going. Pick trends near product design: AI in design tools, AI hiring, vibe coding |
+| **Milestone thank-you** (Alisha M., see `content/swipe.md`) | The win and the stuck part before it, real numbers, what kept me going, specific thanks, one easy question about the reader | Use for design milestones: a product launch, a client's results, a portfolio milestone. Business angle: what the work did for the people who used it |
 | **Lesson from a real moment** (my founder relationship post) | What I did, what happened months later, the line that sums it up, what the reader should do | Shows how I work with founders. Works best with a concrete detail of what we talked about |
 
 ## Swipe log (other people's design posts that moved)
@@ -85,6 +86,7 @@ Mine: the job hunt post is all about me, then "ps: Need a product designer to jo
 **Big idea from this batch:** Felix wrote the "serious" version of my viral concrete meme. That's a pattern I can use: **post the meme for reach, then a week later post the value version** (why everyone has a design opinion, what founders should do instead, and my quotable line). The meme gets me seen. The value post makes people want to hire me.
 
 ## Patterns in design posts that move
+- **End with an easy question about the reader** when the goal is comments: "What was the first design you were proud of?" beats "What do you think about design systems?" (from Alisha M.'s milestone post, 202 comments on 251 reactions).
 Updated once there are 5+ rows. Now 5 posts (3 theirs, 2 mine). Early patterns:
 - **Specific beats general.** Every post that moved has numbers, places or a short scene.
 - **One quotable line** drives reposts more than any ask does.
