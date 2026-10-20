@@ -107,7 +107,8 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
   - Profile: cat profile (Yuki), vet clinic, daily reminder, weekly check-in
 - **Business angle:** App Store screenshots decide installs. Each headline sells an owner's worry, not a feature.
 - **AI assistant (added Oct 2026, from me):** a chat for when the cat's problem isn't in the check-in options or the owner can't find the words. It helps clarify the problem. Not a core feature, a helper for unsure moments.
-- **Posts used:** 2026-10-16 LinkedIn, App Store screenshots. 2026-10-19 X, AI assistant.
+- **Posts used:** 2026-10-16 LinkedIn, App Store screenshots. 2026-10-19 X, AI assistant. 2026-10-20 LinkedIn, assistant design calls + business.
+- **Assistant screen ("Yuki's Space"):** suggested questions, mic input, "I'm not a vet" card that explains the record and sends health opinions to the vet. Copy to fix: "Welcome!, I'm" and "Ask similar question."
 - **Facts from me:** _(what QuieTell is in one line, who it's for, what changed on the home screen and why, client or personal project)_
 
 ### Big_Hub language plugin (Jun 2026)
