@@ -64,3 +64,16 @@ CTA swaps (pick one):
 - What's next for [Product] this quarter?
 - Where do new users get stuck in [Product] right now?
 - What made you start [Product]?
+
+## Replies: "I'm building a product. Why do you ask?"
+That's awesome! I ask because I'm a product designer, and the early stage is my favourite part. It's where most of the decisions that make users stay or leave get made.
+
+What are you building, and who is it for?
+
+Also curious: how are you making sure the first version actually clicks with the people you're building for?
+
+### Next reply, depending on their answer
+- **"We're figuring it out as we go" / "I'm doing the design myself":** That's how most good products start. One thing I've seen work early: [one tip that fits their product]. I recently helped an ERP team get onboarding from hours to under a minute, so this is the part I enjoy most. Happy to look at a screen or two and share what I'd change, if that helps.
+- **"We have a designer" / "Our designer handles it":** Nice, that puts you ahead of most early teams. What's been the hardest part to get right so far? (Keep it friendly. Teams with a designer still bring in extra help for launches, redesigns or overflow.)
+- **"Users are confused about X" / "Onboarding is a problem":** That one's very fixable. I worked on something close to that: [matching project from pitch/profile.md, one line]. Want me to send a couple of quick ideas for [X]?
+- **"We haven't launched yet":** Exciting. Before launch is the cheapest time to get the first screens right. If you'd like a second pair of eyes on the flow, I'm happy to take a look.
