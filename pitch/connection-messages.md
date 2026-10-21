@@ -68,9 +68,9 @@ CTA swaps (pick one):
 ## Replies: "I'm building a product. Why do you ask?"
 That's awesome! I ask because I'm a product designer, and the early stage is my favourite part. It's where most of the decisions that make users stay or leave get made.
 
-What are you building, and who is it for?
+If you're open to sharing, what kind of product is it? No pressure if it's still under wraps.
 
-Also curious: how are you making sure the first version actually clicks with the people you're building for?
+Either way, I'm curious how you're making sure the first version clicks with the people you're building it for.
 
 ### Next reply, depending on their answer
 - **"We're figuring it out as we go" / "I'm doing the design myself":** That's how most good products start. One thing I've seen work early: [one tip that fits their product]. I recently helped an ERP team get onboarding from hours to under a minute, so this is the part I enjoy most. Happy to look at a screen or two and share what I'd change, if that helps.
