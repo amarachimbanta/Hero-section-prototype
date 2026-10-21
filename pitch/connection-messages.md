@@ -47,3 +47,20 @@ CTA swaps (pick one):
 - What's a project you're proud of that I should look at?
 - Has AI changed how you design yet, or are you still mostly in Figma?
 - What's one design habit you picked up this year?
+
+## For founders who already have a product
+Look at their product for 2 minutes first. Use its name. Never ask if they're building, they are.
+
+Hi [Name], thank you for connecting. It's my pleasure.
+
+I'm Amarachi, a product designer. I spent a few minutes on [Product] and liked [one specific thing you noticed].
+
+I design SaaS and mobile products, mostly the hard parts like onboarding and complex workflows.
+
+What's the one part of [Product] your users ask about the most?
+
+CTA swaps (pick one):
+- What's the one part of [Product] your users ask about the most?
+- What's next for [Product] this quarter?
+- Where do new users get stuck in [Product] right now?
+- What made you start [Product]?
