@@ -25,4 +25,10 @@ Hi [Name], thank you for connecting. It's my pleasure.
 
 I'm Amarachi, a product designer. I design apps and websites, and I like the messy problems most: complex workflows, confusing onboarding, products people give up on.
 
-Glad you're here. Hope your week is going well.
+Glad you're here. Quick question: are you building a product right now, or more on the hiring side?
+
+CTA swaps for version 3 (pick one):
+- Are you building a product right now, or more on the hiring side?
+- What's one part of your product that users get stuck on?
+- What's an app you use every day that annoys you a little? I collect these.
+- What are you working on this quarter?
