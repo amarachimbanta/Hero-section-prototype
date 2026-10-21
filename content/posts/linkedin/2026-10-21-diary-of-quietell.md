@@ -3,42 +3,39 @@ date: 2026-10-21
 platform: linkedin
 status: draft
 pillar: personal / design
-structure: Short feeling post with an easy question for comments (Alisha M. milestone ending)
+structure: Short fictional story (labelled concept), then the product idea in two lines
 source: video "Desktop - 21.mp4" (8s, a brown wall of hanging cat photos titled "Diary of QuieTell.")
-check: "page one" only if this starts a series. Photos: credit or replace any that aren't mine or licensed.
+check: Clara and Mango are fictional. Keep the "concept story" label. Photos: credit or replace any that aren't mine or licensed.
 ---
 
 ## Hook options
-1. I made a wall of cats for QuieTell.
-2. Every cat on this wall is somebody's whole world.
-3. Before fonts and colours, I collect the feeling.
+1. Clara took a picture of Mango every day.
+2. Clara had 40 photos of Mango on her wall. None of them showed what was coming.
+3. Diary of QuieTell, a concept story: Clara and Mango.
 
 ## Post
-I made a wall of cats for QuieTell.
+Clara took a picture of Mango every day.
 
-One getting a chin scratch. One being kissed. One staring at the camera like it pays rent.
+Mango asleep on the keyboard. Mango in the sink. Mango judging her breakfast.
 
-Every one of them is somebody's whole world.
+She pinned the best ones on her wall.
 
-When I'm deep in flows, check-ins and edge cases, this is what I want to remember. The screens matter. The people holding the cats matter more.
+In March, Mango started eating a little less. Sleeping a little more. Sitting by the window instead of on Clara's lap.
 
-Diary of QuieTell, page one.
+Small things. Clara noticed them one at a time, never all together.
 
-What's your cat's name?
+By the time the vet saw the whole picture, it was too late. Three visits, a lot of money, and a wall full of photos she couldn't look at anymore.
 
-## Options
-2. (design angle)
-Moodboards get treated like decoration. For me they're the brief.
+Cats hide it when something is wrong. The signs come quietly, in small changes over days.
 
-Before I touch fonts or colours on QuieTell, I collect the feeling: a chin scratch, a kiss on the head, a cat that clearly owns the house.
+QuieTell is built for those changes. A short daily check-in, so you can show your vet what shifted and when.
 
-If the screens don't feel like this wall, they're wrong.
-
-What do you collect before you start designing?
+Diary of QuieTell. A concept story.
 
 ## Visual
-The 8s video. Upload it natively so it autoplays. No caption on the video needed, "Diary of QuieTell." is already on it.
+The 8s video of the wall of cat photos. It now reads as Clara's wall.
 
 ## Notes
-- Quotable line: "Every one of them is somebody's whole world."
-- The ending is the easiest comment possible for cat owners. Reply to every name.
+- Quotable line: "Cats hide it when something is wrong. The signs come quietly, in small changes over days."
+- Clara and Mango are made up. The "concept story" label stays so nobody feels tricked.
+- No question at the end. A sad story lands better with silence. Reply warmly to anyone who shares their own cat.
