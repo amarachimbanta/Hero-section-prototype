@@ -39,5 +39,21 @@ That's all that stands between me and pressing LinkedIn's "Celebrate" button on 
 
 My finger has been hovering since morning.
 
+4. (direct, playful)
+Are you seriously scrolling past this post?
+
+I'm at 3,997 followers. I've been sitting here waiting for you specifically.
+
+Stop by. Hit follow. Be one of the 3 who get me to 4,000.
+
+I'm thrilled to celebrate you. I've even picked out the confetti.
+
+5. (shorter)
+Wait. Don't scroll.
+
+3,997 followers. You could be number 4,000.
+
+I'm ready to celebrate you. The confetti is loaded.
+
 ## Visual
 Screenshot of "3,997 followers" with a Figma-style red redline next to it labelled "3px off grid". Keep it rough, like a design review note. Text-only also works.
