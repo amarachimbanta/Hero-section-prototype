@@ -32,3 +32,18 @@ CTA swaps for version 3 (pick one):
 - What's one part of your product that users get stuck on?
 - What's an app you use every day that annoys you a little? I collect these.
 - What are you working on this quarter?
+
+## For designers (peers)
+Works whether they're employed, freelancing or looking. Never assume which.
+
+Hi [Name], thank you for connecting. Always good to meet another designer.
+
+I'm Amarachi, a product designer. Lately I've been designing a cat health app and building more of my own designs in code.
+
+What are you designing at the moment?
+
+CTA swaps (pick one):
+- What are you designing at the moment?
+- What's a project you're proud of that I should look at?
+- Has AI changed how you design yet, or are you still mostly in Figma?
+- What's one design habit you picked up this year?
