@@ -18,9 +18,13 @@ description: Draft a LinkedIn post from my design work. Use when I ask for a Lin
 2. **Facts**: pull from code, README, the project file or Figma (use the Figma tools for a figma.com link). Note the 1 to 3 most interesting *decisions*.
 3. Pick one idea + pillar, and a **structure** from `content/swipe.md`. Say which in one line. Take the shape, not the topic: a design post can use the same structure as a viral personal post.
    Fix the gaps listed under *What's missing in mine*.
+   **Proven design shapes (use these first for design posts):**
+   - **Figma vs real life** (Faustine Giorgio, 1,276 reactions, 48 reposts): open with "every design looks great with [the perfect case]", list 4 or 5 real, specific, slightly funny edge cases from my own work, one reframe line people will repost, end with one question the reader can use in their next design review. Visual: a designed side-by-side card, "In the Figma file" vs "In production", that makes the point with no caption. Offer to build it in HTML in this repo.
+   - **Bold claim + why + fix + quotable line** (Felix Lee): see `content/design-content.md`.
+   Say which shape you picked and why.
 4. **3 hook options**, each from a different angle (a specific detail, something that went wrong, an outcome).
 5. **Full post** with the strongest hook.
-6. **Visual**: what to record or screenshot, how to crop, first frame.
+6. **Visual**: what to record or screenshot, how to crop, first frame. For design posts, prefer a designed infographic that makes the point alone (side-by-side, before/after). Those get reposted. Offer to build it in HTML.
 7. **Human pass**: reread every line against the *Banned patterns* in `content/human-writing.md` and rewrite anything that sounds like a template. Read it out loud in your head; if I wouldn't say it to a friend, change it.
 8. Save to `content/posts/linkedin/YYYY-MM-DD-<slug>.md` (template below), `status: draft`.
 9. Run `content/check-post.sh <file>`. Fix everything it flags and run it again until it says `clean`. Only then show me the draft.

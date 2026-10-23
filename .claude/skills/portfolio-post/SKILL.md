@@ -18,7 +18,7 @@ description: Write a LinkedIn or X post about a project from my portfolio (Behan
 2. **Check the facts.** List what the post needs (the problem, the user, one decision, an outcome). Use only what's in `design/portfolio.md` or what I've told you.
    - If something important is missing, **ask me up to 3 short questions** in one message, or ask for screenshots of the case study slides. Don't fill gaps with guesses.
    - If I say "just write it", write it with what's there and mark anything I need to check with `[check]`.
-3. **Pick one angle** from the project's post angles (or a new one) and a **shape** from `content/design-content.md` (LinkedIn) or a formula from `content/x.md` (X). Say which in one line.
+3. **Pick one angle.** For edge-case work (empty states, errors, "the options don't fit"), use the proven **Figma vs real life** shape from `/linkedin-post`. Otherwise pick one from the project's post angles (or a new one) and a **shape** from `content/design-content.md` (LinkedIn) or a formula from `content/x.md` (X). Say which in one line.
 4. **Write it** following `/linkedin-post` or `/x-post` (hooks, full post, visual, human pass, checklist). The value check matters most here: what does a founder or hiring manager learn, and what's the business reason?
 5. **Visual:** name the exact slide or screen from the Behance case study to use, or the prototype clip (NavEase has a 3:50 video). One image that tells the story beats a carousel of every screen.
 6. **Link:** the Behance link goes in the first comment (LinkedIn) or a reply (X), never in the post body.
