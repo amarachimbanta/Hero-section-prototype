@@ -42,3 +42,4 @@ Founders get dozens of AI-written messages a week. They all start with "I came a
 | Date | Company | Person | Role | Signal used | Channel | Status | File |
 |---|---|---|---|---|---|---|---|
 | 2026-10-21 | Mosaic (Motion) | Adish Jain, CEO | Product designer (unsolicited) | Motion launched Oct 20, 2026; $4.3M raised | LinkedIn DM | drafted | `pitch/pitches/2026-10-21-mosaic.md` |
+| 2026-10-24 | Mosaic (Motion) | Adish Jain, CEO | Product designer (unsolicited) | Motion launch + homepage concept video | LinkedIn DM | drafted, concept ready | `pitch/pitches/2026-10-24-mosaic.md` |
