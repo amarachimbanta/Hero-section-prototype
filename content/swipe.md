@@ -55,11 +55,27 @@ Face photo with the milestone written on it
 
 **Design version to try** (needs my real milestone, don't invent one): a portfolio or work milestone told the same way. The stuck part, the real numbers, what kept me going, thanks, then one easy question for the reader. Example question: "What was the first design you were proud of?"
 
+### 3. Self-roast confession (from Daria Ovcharénko, free advice)
+```
+Hook: a self-roast in 3 to 5 words ("Apparently, I'm an idiot.")
+What I did, one line (gave advice for free)
+What happened, with specific detail (they sold it on Instagram, "book a consultation + carousel")
+A dry aside ("Under their own name, of course")
+The honest doubt underneath (do I undercharge for what I know?)
+Mirror lines that land the lesson ("They got a product to sell. I got a lesson about boundaries.")
+Short sign-off talking to myself ("Damn. Welcome to real life, Daria.")
+No image needed
+```
+**Why it works:** it's funny and a little painful, and almost everyone has been on the wrong end of giving something away for free. People comment with their own version. The mirror lines are the part people quote.
+
+**Design version to try** (needs a real moment, don't invent one): free design feedback, a free audit, or a pitch concept that someone used without credit or reply. Same rhythm: self-roast hook, what happened, the doubt about my worth, mirror lines, sign-off to myself.
+
 ## Swipe log
 One row per screenshot. Counts only if visible in the screenshot. Score = how many of the 9 anatomy parts it hits.
 
 | Date added | File | Who | Topic | Structure | Hook (first line) | Score | Reactions / comments / reposts | Why it worked |
 |---|---|---|---|---|---|---|---|---|
+| 2026-10-28 | `swipe/others/2026-10-28-daria-ovcharenko-free-advice.png` | Daria Ovcharénko (LinkedIn content systems and ads) | Free advice that someone resold | Self-roast confession | "Apparently, I'm an idiot." | 7/9 (misses: an ending for the reader, a visual. Text only and still did well) | 272 reactions, 67 comments, 2 reposts (18h old) | The hook is a 4-word self-roast, impossible to scroll past. The story is specific (Instagram, "book a consultation + carousel", "under their own name, of course"). She admits a real doubt: whether her knowledge is worth charging for. Then two mirror lines do the work: "They got a product to sell. I got a lesson about boundaries." Almost every freelancer has lived this, so 67 people commented with their own story. |
 | 2026-10-19 | `swipe/others/2026-10-19-alisha-m-24k-milestone.png` | Alisha M. (HR and talent acquisition) | Reaching 24K followers after a slow month | Milestone thank-you | "The same account that felt stuck for weeks just reached 260K+ impressions on one post in two days" | 8/9 (misses: a reframe line people would repost) | 251 reactions, **202 comments**, 13 reposts | The hook pairs the win with the struggle before it, so it reads as earned, not bragging. Honest low point in short lines ("The views were low. The likes were quiet."). Real numbers for both the slow part and the easy part. She admits she doesn't know why it changed, which feels human. She thanks people for specific things, including people who disagreed. The last line is a question anyone can answer in two seconds ("How did we first connect here?"), so comments are 80% of reactions. Face photo with "24K FOLLOWERS, thank you for being here" and her analytics chart as proof. |
 | 2026-10-15 | `swipe/others/2026-10-15-magali-de-reu-adhd.png` | Magali De Reu (LinkedIn ghostwriter for coaches and founders) | ADHD, being good at hard things and bad at easy things | Mirror lists | "I'm 36. A woman born with ADHD. On LinkedIn, it has me killing it. But the second I close the laptop, it starts killing ME:" | 9/9 | 691 reactions, 247 comments, 5 reposts (1 week old) | The hook packs age, identity and a flip ("killing it" / "killing ME") into two lines. The two lists mirror each other, so the contrast does the work without explaining. The fail list is tiny, real stuff (wet laundry for 3 days, a parking ticket that doubled, "answer clients in 4 minutes, friends in 4 days") that people recognise in themselves. It ends on the reader ("before you call someone lazy, ask yourself") and raises the stakes ("the next 30 years"). A plain face photo, no design, feels personal. Comments are 36% of reactions, which is very high: people replied with their own story. |
 
@@ -95,6 +111,8 @@ The job hunt post ends three times: "If you're going through the same thing...",
 **Rewrite example:** `content/posts/linkedin/2026-10-15-still-job-hunting-v2.md` is the job hunt post with all three fixes.
 
 ## Patterns across the winners
+- **Text-only can win** when the story is sharp. Daria's post had no image and got 272 reactions and 67 comments. Short lines, a self-roast hook and mirror lines carried it.
+- **Mirror lines get quoted:** "They got a product to sell. I got a lesson about boundaries."
 - **The easiest question gets the most comments.** Alisha's "How did we first connect here?" got 202 comments. Questions about the reader's own life beat questions that need an opinion.
 Updated once there are 5+ rows.
 
