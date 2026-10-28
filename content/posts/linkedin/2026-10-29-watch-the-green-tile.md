@@ -30,7 +30,7 @@ Which tile did you watch first?
 #MotionDesign #ProductDesign #UIDesign
 
 ## Visual
-The video, uploaded natively. Not still images. Best: start the video zoomed in on the green tile for 2 seconds (Pay, receipt, Paid), then pull back to the full hero.
+Use `2026-10-29-watch-the-green-tile.mp4` (19s): zoomed on the green tile for 5s (Pay, click, Paid, receipt), smooth pull back, then the full hero. Upload as a video, not images.
 
 ## Notes
 - Quotable line: "Static screens make people read. Moving ones make people get it."
