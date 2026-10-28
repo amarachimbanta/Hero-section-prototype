@@ -60,6 +60,7 @@ Value score (0 to 3): 1 point each for a usable takeaway, a business reason, a l
 |---|---|---|---|---|---|---|---|
 | ~2026-09-15 (1mo) | `design-swipe/mine/2026-09-15-founder-relationship.png` | Getting work by keeping a relationship with a founder | Lesson from a real moment | "I reached out to a founder a while back, and pitched to him." | 7/9 (misses: vulnerable bit, the visual has nothing to do with the story) | 2/3 (takeaway: keep the relationship. Missing: a business reason) | 39 / **42** / 5 (comments higher than reactions) |
 | age not visible | `design-swipe/mine/undated-made-0-in-june-job-hunt.png` | Job hunt progress, June to August | Monthly update | "I made $0 in June; I was job hunting." | 5/9 (misses: proof, reframe, ending for the reader, a visual that's explained) | 0/3 | 43 / 31 / 1, 749 impressions |
+| 2026-10-28 | `design-swipe/mine/2026-10-28-mosaic-hero-redesign.png` | Mosaic hero redesign | Business essay, then the redesign | "Your business might be making money, but is it growing as much as it should?" | 5/9 (misses: tension in the hook, proof, vulnerable bit, an ending for the reader) | 2/3 | 16 / 16 / 1, about 1,500 impressions. Lessons: a motion design shown as 4 still images (the movement never showed), a generic business hook that could open any post, Mosaic only named halfway down, no question at the end. |
 
 ## Mine vs theirs: what's missing
 Updated by `/swipe` every time a design post of mine is logged. Compares my design posts to the ones that moved. Top 3 gaps, most important first, each with what they do, what I did (quoted), and the exact fix for my next post.
@@ -88,6 +89,7 @@ Mine: the job hunt post is all about me, then "ps: Need a product designer to jo
 **Big idea from this batch:** Felix wrote the "serious" version of my viral concrete meme. That's a pattern I can use: **post the meme for reach, then a week later post the value version** (why everyone has a design opinion, what founders should do instead, and my quotable line). The meme gets me seen. The value post makes people want to hire me.
 
 ## Patterns in design posts that move
+- **Show motion as motion.** A motion design posted as still images loses the one thing that makes it special. Always use the video, and point the reader at one moment in it.
 - **A designed infographic gets reposts.** Faustine's Figma-vs-production card got 48 reposts on 1,276 reactions. If the image makes the point alone, people share it. Worth building these in HTML for my own posts.
 - **Funny, specific details beat general advice:** "an error message written by a backend developer at 2am" says more than "handle errors well".
 - **End with an easy question about the reader** when the goal is comments: "What was the first design you were proud of?" beats "What do you think about design systems?" (from Alisha M.'s milestone post, 202 comments on 251 reactions).
