@@ -109,7 +109,10 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 - **AI assistant (added Oct 2026, from me):** a chat for when the cat's problem isn't in the check-in options or the owner can't find the words. It helps clarify the problem. Not a core feature, a helper for unsure moments.
 - **Posts used:** 2026-10-16 LinkedIn, App Store screenshots. 2026-10-19 X, AI assistant. 2026-10-20 LinkedIn, assistant design calls + business.
 - **Assistant screen ("Yuki's Space"):** suggested questions, mic input, "I'm not a vet" card that explains the record and sends health opinions to the vet. Copy to fix: "Welcome!, I'm" and "Ask similar question."
-- **Facts from me:** _(what QuieTell is in one line, who it's for, what changed on the home screen and why, client or personal project)_
+- **7-day baseline:** the assistant screen mentions "Why does the baseline take 7 days?", so the app learns each cat's normal over 7 days.
+- **Status (from me, 2026-11-02):** case study finished. Started as an idea, then market and user research. The project took longer than planned, with gaps. Main learning: how people make decisions, what prompts them, what they do next. Sharpened my judgment.
+- **Posts used:** 2026-11-02 blog post + LinkedIn teaser (content/blog/2026-11-02-quietell-case-study.md).
+- **Facts from me:** _(what QuieTell is in one line, client or personal project, Behance link once published)_
 
 ### Big_Hub language plugin (Jun 2026)
 - **From my resume:** designed and built a Figma plugin in HTML, CSS and JavaScript that cut localization time by **over 80%** and lets designers localize interfaces inside Figma.
