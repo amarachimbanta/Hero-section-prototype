@@ -20,11 +20,11 @@ I had to start from scratch.
 
 It stung. Then it made me ask a better question.
 
-This was an ERP. Admin, inventory, procurement, sales, finance, HR. One product, many departments, all depending on each other.
+This was an ERP. Admin, inventory, procurement, sales, finance, HR. One product, many departments, each kept in its own space. A procurement officer can't see the inventory dashboard. Only the admin sees everything.
 
 I had been designing screens. They needed a system.
 
-So I went back to research. How does a company actually move through this product every day? What happens to finance when something changes in procurement? How does the admin see every department without jumping through hoops?
+So I went back to research. How does a company actually move through this product every day? How do you keep each department separate without anyone getting locked out when something changes? How does the admin oversee every department without jumping through hoops?
 
 From then on, every decision had to answer one question: does this help the company run without friction?
 
