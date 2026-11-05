@@ -1,7 +1,7 @@
 # Amarachi Mbanta
 **Product Designer | Design Engineer**
 [City], Benin [CONFIRM?] · [email] · [phone]
-Portfolio: [full portfolio URL] · linkedin.com/in/amarachimbanta · behance.net/amarachimbanta20 · github.com/amarachimbanta
+Portfolio: blackigbogalportfolio.vercel.app · linkedin.com/in/amarachimbanta · behance.net/amarachimbanta20 · github.com/amarachimbanta
 
 ---
 
@@ -12,11 +12,13 @@ Product Designer and Design Engineer who designs and builds. I design SaaS, ERP,
 
 ## Experience
 
+**Design Engineer — Personal Portfolio Website (Independent Product), Remote**
+Jun 2026 – Present · blackigbogalportfolio.vercel.app
+- Designed and engineered my portfolio website end-to-end, taking it from Figma to a live, fully functional, responsive site deployed on Vercel, built with [STACK? e.g. React / Next.js / HTML, CSS, JavaScript] and AI-assisted development (Claude), with [KEY FEATURES? e.g. interactive case studies, animations, page transitions].
+
 **Design Engineer — Big_Hub Language Plugin (Independent Product), Remote**
 Jun 2026
-- Designed and built Big_Hub, a Figma plugin (HTML, CSS, JavaScript) that lets designers translate and localize interface text without leaving Figma.
-- Cut localization time by over 80% [CONFIRM?: measured how, e.g. timed on N screens, before vs after] and improved translation consistency across screens.
-- Owned the full product cycle: identified a recurring localization problem, designed the UX/UI, coded, tested and [published to Figma Community? CONFIRM?].
+- Designed and built a Figma localization plugin in HTML, CSS and JavaScript that lets designers translate interfaces directly in Figma, cutting localization time by over 80% [CONFIRM?: how measured] and improving translation consistency.
 
 **Product Designer [(Volunteer / Co-designer)? CONFIRM?] — Nexera (B2B ERP SaaS), Nigeria · Remote**
 Dec 2025 – Mar 2026
@@ -39,10 +41,6 @@ Dec 2025 – Feb 2026
 ---
 
 ## Projects
-
-**Personal Portfolio Website — Design Engineer**
-Jun 2026 – Present · [portfolio URL]
-- Designed the site in Figma and developed it into a live, responsive website with AI-assisted development (Claude), taking it from concept to deployment on my own.
 
 **NavEase — UX Researcher & Product Designer (Collaborative Project)**
 Nov 2025 – Dec 2025
@@ -70,7 +68,7 @@ Covered UX research, UI design, prototyping and responsive web design.
 - **Design:** Product Design, UX Design, UI Design, Interaction Design, Visual Design, Mobile Design, Web Design, Responsive Design, Wireframing, Prototyping, High-Fidelity Design, User Flows, Information Architecture
 - **Research:** User Experience (UX) Research, Usability Testing, Competitive Analysis, Journey Mapping
 - **Design Systems:** Component Libraries, Design Tokens, Variables, Design Handoff
-- **Tools:** Figma, FigJam, Framer, Figma Plugin API [CONFIRM?], Claude (AI-assisted development)
+- **Tools:** Figma, FigJam, Framer, Figma Plugin API [CONFIRM?], Vercel, Claude (AI-assisted development)
 - **Technical:** HTML, CSS, JavaScript
 - **Collaboration:** Cross-functional collaboration with engineers, Communication, Teamwork
 

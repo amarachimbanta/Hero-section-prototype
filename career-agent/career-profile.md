@@ -17,7 +17,7 @@
 - **Years of experience:** TODO
 - **Location / time zone:** Benin (also has a Nigerian number) [CONFIRM city]
 - **Work setup wanted:** TODO (remote / hybrid / onsite, relocation yes/no, visa needs)
-- **Portfolio:** self-designed and self-built (with Claude), Jun 2026 → [URL TODO]
+- **Portfolio:** self-designed and self-built (with Claude), Jun 2026 → https://blackigbogalportfolio.vercel.app/ (deployed on Vercel)
 - **LinkedIn:** linkedin.com/in/amarachimbanta · Behance: behance.net/amarachimbanta20 · GitHub: github.com/amarachimbanta
 - **Email / phone:** TODO
 
