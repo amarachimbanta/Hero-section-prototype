@@ -1,18 +1,18 @@
 # Amarachi Mbanta
-**Product Designer**
+**Product Designer | Design Engineer**
 [City], Benin [CONFIRM?] · [email] · [phone]
 Portfolio: [full portfolio URL] · linkedin.com/in/amarachimbanta · behance.net/amarachimbanta20 · github.com/amarachimbanta
 
 ---
 
 ## Summary
-Product Designer who designs and builds. I design SaaS, ERP, fintech, agritech and AI-powered products for web and mobile, turning complex workflows into clear, intuitive experiences through UX research, interaction design, design systems and rapid prototyping. I also build what I design: I shipped a Figma localization plugin in HTML, CSS and JavaScript, and designed and developed my own portfolio site with AI-assisted coding (Claude). I build scalable Figma UI libraries with design tokens, variables and reusable components, and I work closely with engineers to keep design handoff clean.
+Product Designer and Design Engineer who designs and builds. I design SaaS, ERP, fintech, agritech and AI-powered products for web and mobile, turning complex workflows into clear, intuitive experiences through UX research, interaction design, design systems and rapid prototyping. I also build what I design: I shipped a Figma localization plugin in HTML, CSS and JavaScript, and designed and developed my own portfolio site with AI-assisted coding (Claude). I build scalable Figma UI libraries with design tokens, variables and reusable components, and I work closely with engineers to keep design handoff clean.
 
 ---
 
 ## Experience
 
-**Product Designer & Developer — Big_Hub Language Plugin (Independent Product), Remote**
+**Design Engineer — Big_Hub Language Plugin (Independent Product), Remote**
 Jun 2026
 - Designed and built Big_Hub, a Figma plugin (HTML, CSS, JavaScript) that lets designers translate and localize interface text without leaving Figma.
 - Cut localization time by over 80% [CONFIRM?: measured how, e.g. timed on N screens, before vs after] and improved translation consistency across screens.
@@ -40,7 +40,7 @@ Dec 2025 – Feb 2026
 
 ## Projects
 
-**Personal Portfolio Website — Designer & Developer**
+**Personal Portfolio Website — Design Engineer**
 Jun 2026 – Present · [portfolio URL]
 - Designed the site in Figma and developed it into a live, responsive website with AI-assisted development (Claude), taking it from concept to deployment on my own.
 

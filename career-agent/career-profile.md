@@ -13,7 +13,7 @@
 
 - **Name:** Amarachi Mbanta
 - **Current title:** Product Designer
-- **Target titles:** Product Designer; also design + build roles (Design Engineer / Product Engineer). Wants to present as a designer who codes.
+- **Target titles:** Product Designer; Design Engineer. Wants to present as a designer who codes. (Not Product Engineer: that title means a software engineer.)
 - **Years of experience:** TODO
 - **Location / time zone:** Benin (also has a Nigerian number) [CONFIRM city]
 - **Work setup wanted:** TODO (remote / hybrid / onsite, relocation yes/no, visa needs)
