@@ -97,6 +97,13 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 ---
 
 ## Not on Behance yet
+## Personal portfolio website (live Nov 2026)
+- **Link:** _(add the live URL)_
+- **Built:** started June 2026, finished and live 2026-11-05. Designed and built by me because my developer was busy. Fully working.
+- **Idea:** a portfolio that isn't a roller coaster. Someone hiring finds what they need fast, without riding through animations.
+- **Posts used:** 2026-10-29 LinkedIn ("Most designer portfolios are a theme park"), 2026-11-05 LinkedIn launch post.
+- **Facts from me:** _(stack or tool used to build it, what's on the first screen, how each case study is laid out)_
+
 ### QuieTell (mobile app for cat owners), Oct 2026
 - **Source:** photo of my Figma file (2026-10-12). Details below are only what's visible in it.
 - **What's visible:** 5 App Store screenshots and a profile screen, light and dark mode.
