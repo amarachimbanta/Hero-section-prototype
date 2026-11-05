@@ -11,14 +11,14 @@
 
 ## 1. Snapshot
 
-- **Name:** TODO
+- **Name:** Amarachi Mbanta
 - **Current title:** Product Designer
-- **Target titles:** TODO (e.g. Product Designer, Senior Product Designer, UX/UI Designer, Founding Designer)
+- **Target titles:** Product Designer; also design + build roles (Design Engineer / Product Engineer). Wants to present as a designer who codes.
 - **Years of experience:** TODO
-- **Location / time zone:** TODO
+- **Location / time zone:** Benin (also has a Nigerian number) [CONFIRM city]
 - **Work setup wanted:** TODO (remote / hybrid / onsite, relocation yes/no, visa needs)
-- **Portfolio:** TODO (URL + password if any)
-- **LinkedIn:** TODO
+- **Portfolio:** self-designed and self-built (with Claude), Jun 2026 → [URL TODO]
+- **LinkedIn:** linkedin.com/in/amarachimbanta · Behance: behance.net/amarachimbanta20 · GitHub: github.com/amarachimbanta
 - **Email / phone:** TODO
 
 ## 2. What I'm facing right now (the honest part)
@@ -51,6 +51,16 @@
 - **Type of company I thrive in:** TODO (early-stage, scale-up, agency, enterprise)
 
 ## 4. Experience
+
+> Working draft of the full resume: `resumes/base-resume-draft.md`. Facts below come from the FlowCV resume (Nov 2026).
+
+- **Big_Hub Language Plugin**: Figma localization/translation plugin, designed + coded (HTML/CSS/JS), Jun 2026. Claims localization time cut >80%. [CONFIRM how measured]
+- **Nexera**: B2B ERP SaaS (Inventory, Procurement, Admin), Dec 2025–Mar 2026, team project. Claims: onboarding hours → <1 min, activation +40%, 98% task completion, design system. [CONFIRM: is this the volunteer co-designer client project? Source of metrics?]
+- **Plenix**: fintech personal finance mobile app, Mar–Apr 2026. Flows + hi-fi UI.
+- **Agrixa / AgriConnect** (agrixa.co): AI agritech, landing pages (+ mobile app?), Dec 2025–Feb 2026.
+- **NavEase**: collaborative UX research project, transit navigation, Nov–Dec 2025.
+- **Shopwithme**: personal e-commerce checkout redesign, Jun–Sep 2025.
+- **Education:** AltSchool Africa Diploma in Product Design (Sep 2023–Aug 2024); B.A. History & International Studies, Nnamdi Azikiwe University (2022–2025).
 
 > Copy this block per role. Write raw — what you did, what changed, any numbers
 > (even rough). "I don't know the number" is a fine answer; the agents will help you
