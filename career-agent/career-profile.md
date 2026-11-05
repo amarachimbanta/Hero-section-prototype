@@ -29,9 +29,19 @@
 > don't match the jobs I want", "I'm switching from graphic design", "I don't have
 > numbers for my work", "founders ghost me after the first call".
 
-- TODO
-- TODO
-- TODO
+- Learned product design 2023–2024 while still in school; didn't practise it seriously until after graduating.
+- Finished school around Oct/Nov 2025. Since then I've been relearning and updating my skills, because product design in 2026 isn't the same as it was in 2023–24 (AI tools, design tokens/variables, more designers who also code).
+- Most of my real experience is collaborative or volunteer work, not a full-time job. Example: I was co-product designer (volunteer) on a product we built for a client.
+- I don't know how to describe this experience on my resume without underselling it or overclaiming it.
+- My current summary says "3 years of experience". That needs to be reframed honestly (see notes below).
+
+### Current resume summary (as written by me)
+> Product Designer with 3 years of experience designing SaaS, ERP, e-commerce and AI products across web and mobile. I specialize in turning complex workflows into intuitive experiences through UX research, interaction design, design systems and rapid prototyping. Experienced in building scalable UI libraries in Figma using design tokens, variables and reusable components. Comfortable collaborating with engineers using HTML and CSS knowledge to improve design handoff and implementation.
+
+### Agent notes
+- Don't claim "3 years of experience". Learning since 2023 is true. Three years of professional experience isn't, and a founder will check it in the first interview.
+- Every domain in the summary (SaaS, ERP, e-commerce, AI) must be backed by a real project in section 4 or 5. `[CONFIRM?]` each one.
+- Volunteer and collaborative client work counts as experience. List it under Experience with an honest label (e.g. "Product Designer (Volunteer)" or "Freelance Product Designer").
 
 ## 3. Positioning — the one-line answer to "who are you?"
 
@@ -45,6 +55,14 @@
 > Copy this block per role. Write raw — what you did, what changed, any numbers
 > (even rough). "I don't know the number" is a fine answer; the agents will help you
 > find a proxy.
+
+### Role: Co-Product Designer (Volunteer) — TODO client/product name (TODO start – TODO end)
+- **What the product does:** TODO
+- **Who I worked with:** TODO (the other designer, developers, the client)
+- **What I designed:** TODO (which screens and flows, research, design system?)
+- **Did it ship / is it live?** TODO (link?)
+- **Outcome or feedback:** TODO
+- **Tools used:** TODO
 
 ### Role: TODO title — TODO company (TODO start – TODO end)
 - **What the company does:** TODO
