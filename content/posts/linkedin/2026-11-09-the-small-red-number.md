@@ -30,7 +30,7 @@ Everything came back to one question: would she catch the small red number befor
 
 So customers sit right next to revenue. Same card, same size, same weight. When something drops, it turns red, and it's the first thing her eyes land on.
 
-Most business problems don't arrive loudly. They show up as a tiny arrow pointing down while everything else is green.
+A good dashboard should show you a problem while it's still small enough to fix.
 
 What's the small number in your business you keep meaning to look at?
 
@@ -40,6 +40,6 @@ What's the small number in your business you keep meaning to look at?
 The dashboard screenshot. Optional: a small circle around the "-1.2%" so people's eyes go straight to it.
 
 ## Notes
-- Quotable line: "Most business problems don't arrive loudly."
+- Quotable line: "A good dashboard should show you a problem while it's still small enough to fix."
 - Tola is framed as "the kind of store owner I designed for": a design persona, not a named client.
 - The numbers come from the dashboard itself, not a real company's results.
