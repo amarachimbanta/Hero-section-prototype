@@ -3,30 +3,34 @@ date: 2026-11-09
 platform: linkedin
 status: draft
 pillar: principle
-structure: Numbers hook + the insight + design principle + easy question
+structure: Persona story (Tola is fictional, labelled in the post) + insight + quotable line + personal question
 source: The Style Room sales dashboard (2026-11-09-style-room-dashboard.png). Numbers are the dashboard's sample data.
 check: is The Style Room a real client or a concept? If concept, add "(concept)" after the name.
 ---
 
 ## Hook options
-1. Revenue up 12.8%. Customers down 1.2%.
-2. The most important number on this dashboard is the small red one.
-3. $24,580 in revenue. Fewer customers than last month.
+1. Every morning before she opens the shop, Tola checks one thing.
+2. Tola's revenue went up 12.8% last month. She almost missed the bad news.
+3. Most business problems don't arrive loudly.
 
 ## Post
-Revenue up 12.8%. Customers down 1.2%.
+Every morning before she opens the shop, Tola checks one thing.
 
-It's easy to see the green number and move on.
+Revenue.
 
-I designed this sales dashboard for The Style Room, and that tiny red arrow was the part I cared about most.
+Last month it went up 12.8%. She smiled, closed the laptop and went to fold the denim jackets.
 
-$24,580 in revenue looks great. But it came from fewer customers, each spending more. That's a store slowly depending on fewer people.
+What she didn't see: 1.2% fewer customers. The ones who stayed were spending more, but there were fewer of them each week.
 
-A good dashboard points at the number that needs attention, even when it's the small red one.
+Nothing was wrong yet. That's the dangerous part.
 
-So the design keeps bad news as visible as good news. Same card, same size, same weight. Only the colour changes.
+Tola isn't real. She's the store owner I kept in my head while designing the sales overview for The Style Room.
 
-Which number would you check first?
+Everything came back to one question: would Tola catch the small red number before it became a big one?
+
+Most business problems don't arrive loudly. They show up as a tiny arrow pointing down while everything else is green.
+
+What's the small number in your business you keep meaning to look at?
 
 #ProductDesign #DashboardDesign #UXDesign
 
@@ -34,5 +38,6 @@ Which number would you check first?
 The dashboard screenshot. Optional: a small circle around the "-1.2%" so people's eyes go straight to it.
 
 ## Notes
-- Quotable line: "A good dashboard points at the number that needs attention, even when it's the small red one."
+- Quotable line: "Most business problems don't arrive loudly."
+- Tola is a persona. The post says so, so nobody feels tricked.
 - The numbers come from the dashboard itself, not a real company's results.
