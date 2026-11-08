@@ -3,7 +3,7 @@ date: 2026-11-09
 platform: linkedin
 status: draft
 pillar: principle
-structure: Persona story (Tola is fictional, labelled in the post) + insight + quotable line + personal question
+structure: Persona story + how the design answers it + quotable line + personal question
 source: The Style Room sales dashboard (2026-11-09-style-room-dashboard.png). Numbers are the dashboard's sample data.
 check: is The Style Room a real client or a concept? If concept, add "(concept)" after the name.
 ---
@@ -24,9 +24,11 @@ What she didn't see: 1.2% fewer customers. The ones who stayed were spending mor
 
 Nothing was wrong yet. That's the dangerous part.
 
-Tola isn't real. She's the store owner I kept in my head while designing the sales overview for The Style Room.
+Tola is the kind of store owner I designed The Style Room's sales overview for.
 
-Everything came back to one question: would Tola catch the small red number before it became a big one?
+Everything came back to one question: would she catch the small red number before it became a big one?
+
+So customers sit right next to revenue. Same card, same size, same weight. When something drops, it turns red, and it's the first thing her eyes land on.
 
 Most business problems don't arrive loudly. They show up as a tiny arrow pointing down while everything else is green.
 
@@ -39,5 +41,5 @@ The dashboard screenshot. Optional: a small circle around the "-1.2%" so people'
 
 ## Notes
 - Quotable line: "Most business problems don't arrive loudly."
-- Tola is a persona. The post says so, so nobody feels tricked.
+- Tola is framed as "the kind of store owner I designed for": a design persona, not a named client.
 - The numbers come from the dashboard itself, not a real company's results.
