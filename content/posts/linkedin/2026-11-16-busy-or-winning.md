@@ -27,6 +27,10 @@ Which day makes the most money. Which number quietly dropped.
 
 A business can't fix what it can't see.
 
+If your numbers are scattered, start small. Pick the 3 that matter most: revenue, orders and returning customers. Put them in one place, even a single spreadsheet tab. Check them at the same time every week.
+
+You don't need a fancy dashboard to start. You need one place to look.
+
 Where do your business numbers live right now?
 
 #ProductDesign #DashboardDesign #SmallBusiness
