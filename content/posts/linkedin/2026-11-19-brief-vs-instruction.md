@@ -9,20 +9,18 @@ check: "this week" timing. Different angle from the 2026-10-19 micromanagement p
 ---
 
 ## Hook options
-1. A designer I know resigned this week. I'm the one who told him to.
+1. A designer I know resigned this week.
 2. "Make it look exactly like this." That's not a brief.
 3. If a company only gives instructions, they don't need a designer.
 
 ## Post
 A designer I know resigned this week.
 
-I'm the one who told him to.
-
 He'd been telling me the same thing for a while. He wasn't designing. He was following orders. Which button, which colour, which layout, and exactly how to do it. No room to think. No room to solve anything.
 
 Work every day. Weekends too. No time left to build anything of his own.
 
-When he asked me what to do, I told him the truth. A place that won't let you do the job they hired you for won't look after your health either.
+A place that won't let you do the job they hired you for won't look after your health either.
 
 There's a big difference between a brief and an instruction.
 
