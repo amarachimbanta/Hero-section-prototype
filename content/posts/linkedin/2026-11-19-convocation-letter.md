@@ -5,40 +5,28 @@ status: draft
 pillar: personal / milestone
 structure: Moment (convocation I'm missing) + short backstory + letter to younger and future self + easy question
 source: my notes 2026-11-19
-check: "third year" is when I started on LinkedIn. Confirm before posting.
+check: opening uses my own words (left uni at 22, LinkedIn late in my 22nd year, most of my 23rd year building).
 ---
 
 ## Hook options
-1. Today is my convocation. I won't be there.
-2. My classmates walk across the stage today. I'll be at my desk.
-3. Dear younger self, thank you for choosing this path.
+1. I left uni at 22.
 
 ## Post
-Today is my convocation.
+I left uni at 22.
 
-I won't be there.
+Late that year, I started showing up on LinkedIn. Almost all of my 23rd year went into building my personal brand, showing up here and on other platforms, and building my career.
 
-I've moved out of the country, and right now I can't step away from the work I'm doing. So while my classmates walk across that stage, I'll be at my desk.
+Today is my convocation. I won't be there. I've moved out of the country, and I can't step away from my work right now. I'm a product designer, now learning design engineering with AI.
 
-In my third year of university, I started showing up on LinkedIn. No big following, no clear plan. Just a feeling that I needed to start building something of my own.
+To my younger self: thank you for choosing this path, and for standing still through the hardest times. You pulled through.
 
-Now I'm a product designer, learning to build what I design with AI. Design engineering.
-
-So instead of a gown and a photo, I'm writing a letter.
-
-To my younger self:
-Thank you for choosing this path. Thank you for standing still through the hardest seasons. You pulled through.
-
-To my future self:
-Keep going. You're heading somewhere, even when the results are slow.
-
-I've watched so many people lock in, stay consistent and finally get there. I'm choosing to be one of them.
+To my future self: keep going. You're heading somewhere.
 
 Call it delusional. I'm delusional about becoming great at what I do.
 
-If you could send one line to your younger self, what would it say?
+What would you tell your younger self?
 
-#Graduation #PersonalGrowth #ProductDesign
+#PersonalGrowth #ProductDesign #Graduation
 
 ## Visual
 A photo of me at my desk today, or an old university photo next to a photo of me now.
