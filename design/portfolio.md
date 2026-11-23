@@ -123,6 +123,7 @@ Behance profile: Product designer, available for freelance. 8 projects, 623 proj
 
 ### Big_Hub language plugin (Jun 2026)
 - **From my resume:** designed and built a Figma plugin in HTML, CSS and JavaScript that cut localization time by **over 80%** and lets designers localize interfaces inside Figma.
+- **Posts used:** 2026-11-23 LinkedIn ("Over 80% less time").
 - **Post angles:** X build post with a screen recording of the plugin. LinkedIn *Process*: "I got tired of a manual task, so I built a plugin." Strong design engineering proof. Worth adding to Behance.
 
 ## Portfolio-wide post ideas
