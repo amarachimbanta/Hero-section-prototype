@@ -61,6 +61,7 @@ Fill in which of these actually work for me as the swipe file grows.
 | **The list nobody asked for** | Numbered list of honest, slightly petty truths | "Phrases that mean the design review is going badly" |
 | **LinkedIn parody** | Formal LinkedIn announcement voice for a tiny or embarrassing thing, plus a "milestone" image | "Thrilled to announce I finally renamed all my Figma layers. Frame 2847 is now Header." |
 | **Labelled meme (my best)** | Two panels or a short video: careful work, then something wrecking it, with job labels | Workers smoothing concrete = "Designer". Dog running through it = "*Client". **15.6k impressions.** |
+| **Funny war story with a callback** (Daria Ovcharénko, "the baron") | A real bad moment from early in my career, told with one vivid comparison, self-talk jokes, a short list of lessons with a joke in each, and an ending that calls back to the opening comparison | A client or stakeholder moment from my early design days: "Can you just make it pop?", free "quick feedback" that became 3 hours of work |
 | **Mock UI** | A fake interface that makes the joke | A modal: "Are you sure you want to add another stakeholder?" [Cancel] [Cancel] |
 
 ## Swipe file
@@ -68,6 +69,7 @@ Logged by `/humor-post` from screenshots. One row per screenshot. Reactions/comm
 
 | Date added | File | Who | Format | Hook (first line) | Why it worked | Reactions / comments |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | `swipe/2026-11-24-daria-ovcharenko-the-baron.png` | Daria Ovcharénko (LinkedIn strategist, second post logged) | Funny war story with a callback | "I honestly thought I'd never tell this story." | Opens with a secret, then one vivid comparison: a rude client said her name "like he was a baron and my family had been growing potatoes on his land for generations". Self-talk jokes ("What was he going to do, Daria? Ask for his $0 back?"). Specific detail ("Two exclamation marks because apparently the free PDF wasn't friendly enough"). Lessons, each with a joke ("Imagine going freelance for the freedom and then personally recruiting a terrible boss"). Ends on a callback: "I blocked him. First woman in my family to get off that potato farm." Follows her free-advice post, so it reads like a series. | 23 reactions, 7 comments, 2 reposts at only 30 minutes old (too early to judge, recheck later) |
 | 2026-10-15 | `swipe/2026-10-15-magali-de-reu-task-42-days.png` | Magali De Reu (writes for coaches and founders) | LinkedIn parody | "thrilled to announce the task i'd been putting off for 42 days took 4 minutes to complete" | Takes the "thrilled to announce" voice and points it at a universal, slightly shameful truth everyone has lived. The exact numbers (42 days, 4 minutes) make it real. The whole joke is in one line, all lowercase, so it feels like a shrug, not a performance. The LinkedIn "celebrating a milestone" card with a sleeping cartoon lands the punchline a second time. Easy to tag someone and easy to comment "me with my taxes". | 1,885 reactions, 339 comments, 9 reposts (about 3 weeks old). Lots of comments for the reactions, so people replied with their own version. |
 
 ## My humor posts
@@ -84,6 +86,7 @@ Early notes (3 posts so far, 1 from someone else, 2 mine, not a firm pattern yet
 - **Design-specific beats general.** My best post is pure product design humor. Keep the 80%.
 - **A friendly fight between jobs drives comments.** Design vs development gives both sides a reason to reply.
 - **Short captions.** My best had about 35 words. Magali's had 17.
+- **A callback ending lands hardest.** Daria opens with the baron and potato farm and ends on "First woman in my family to get off that potato farm". Set up one vivid image early, pay it off in the last line.
 - **Meme first, value post second.** Felix Lee posted the serious version of my concrete meme ("Designers are paid to reason", 20 reposts). Plan a value follow-up for every meme that hits. See `content/design-content.md`.
 - One line can be the whole post.
 - Lowercase and deadpan reads as human and confident.
