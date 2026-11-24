@@ -19,11 +19,11 @@ No monthly option. Pay it all now, or leave.
 
 Offering 6 months is fine. Some people prefer it. Forcing it is where you lose them.
 
-Plenty of digital products do exactly this. Annual plan only, paid before you've seen if the product works for you.
+Most digital products get this right. They let you pay monthly. But some still lock you into an annual plan before you've seen if the product works for you.
 
 Nobody wants to pay for six months of something they've used for six minutes.
 
-The products people trust let you choose. Monthly if you want to try it. Annual, often cheaper, if you're already sure.
+The products people trust give you the choice. Monthly if you want to try it. Annual, often cheaper, if you're already sure.
 
 As designers, the payment screen is part of the experience. If it demands too much trust too soon, people leave before they ever see what you built.
 
