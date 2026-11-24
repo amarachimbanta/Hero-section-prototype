@@ -8,24 +8,26 @@ source: my idea 2026-11-24 (don't force upfront payment, offer monthly, annual a
 ---
 
 ## Hook options
-1. Imagine a landlord asking for 6 months' rent on a house you've never slept in.
+1. Imagine a landlord who will only take 6 months' rent upfront, on a house you've never slept in.
 2. Nobody wants to pay for six months of something they've used for six minutes.
 3. The payment screen is part of the design.
 
 ## Post
-Imagine a landlord asking for 6 months' rent on a house you've never slept in.
+Imagine a landlord who will only take 6 months' rent upfront, on a house you've never slept in.
 
-Most people would hesitate. Many would walk away.
+No monthly option. Pay it all now, or leave.
 
-Yet plenty of digital products do exactly this. Sign up, then pay for the whole year before you've seen if it works for you.
+Offering 6 months is fine. Some people prefer it. Forcing it is where you lose them.
+
+Plenty of digital products do exactly this. Annual plan only, paid before you've seen if the product works for you.
 
 Nobody wants to pay for six months of something they've used for six minutes.
 
-That's why the products people trust let you start small. A free trial. A monthly plan. The annual plan is still there, often cheaper, but it's offered as a choice.
+The products people trust let you choose. Monthly if you want to try it. Annual, often cheaper, if you're already sure.
 
-As designers, the payment screen is part of the experience. If it asks for too much trust too soon, people leave before they ever see what you built.
+As designers, the payment screen is part of the experience. If it demands too much trust too soon, people leave before they ever see what you built.
 
-Let customers pay one month at a time. Then earn the next month.
+Give people the option to start small. Then earn the next month.
 
 Would you pay a full year upfront for a product you've never used?
 
