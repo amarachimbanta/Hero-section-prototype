@@ -70,11 +70,28 @@ No image needed
 
 **Design version to try** (needs a real moment, don't invent one): free design feedback, a free audit, or a pitch concept that someone used without credit or reply. Same rhythm: self-roast hook, what happened, the doubt about my worth, mirror lines, sign-off to myself.
 
+### 4. Surprising claim + a cited stat + reframe (from Ghofrane Guesmi, quiet readers)
+```
+Hook: a surprising claim about the reader ("Your next client might know your name before you know theirs.")
+What's happening out of sight, in short lines (reading your posts, opening your profile, forming an opinion)
+A stat with a named source (Dreamdata 2026 report: B2B journey 272 days, 61% before a pipeline exists)
+Personal proof ("I've seen it with my own clients.")
+The common mistake (judging content by this week's leads)
+The real job of the content, one line
+A reassuring reframe ("A post with zero comments can still be influencing a decision.")
+Two either-or questions to end ("Are the wrong people ignoring you? Or are the right people reading quietly?")
+Face photo at work
+```
+**Why it works:** it reassures a fear almost every creator has (low engagement), backs it with a real, named stat, and gives readers a new way to see their own numbers. People comment to say "I needed this".
+
+**Design version to try:** a design truth most founders don't see, backed by a named source I can link (never an invented stat), plus proof from my own projects (Nexera onboarding: hours to under a minute), the common mistake, and a reframe.
+
 ## Swipe log
 One row per screenshot. Counts only if visible in the screenshot. Score = how many of the 9 anatomy parts it hits.
 
 | Date added | File | Who | Topic | Structure | Hook (first line) | Score | Reactions / comments / reposts | Why it worked |
 |---|---|---|---|---|---|---|---|---|
+| 2026-11-26 | `swipe/others/2026-11-26-ghofrane-guesmi-quiet-readers.png` | Ghofrane Guesmi (builds personal brands for founders) | Clients read quietly for months before reaching out | Surprising claim + cited stat + reframe | "Your next client might know your name before you know theirs." | 8/9 (misses: vulnerable bit) | 478 reactions, **162 comments** | The hook flips a common belief and makes the reader the subject. Short lines describe quiet behaviour everyone recognises. A named source (Dreamdata's 2026 LinkedIn Ads Benchmarks: 272-day B2B journey, 61% before a pipeline exists) makes it credible. "I've seen it with my own clients" adds proof. The reframe ("A post with zero comments can still be influencing a decision") comforts anyone worried about low engagement, and the either-or ending makes it easy to reply. Comments are a third of reactions. |
 | 2026-10-28 | `swipe/others/2026-10-28-daria-ovcharenko-free-advice.png` | Daria Ovcharénko (LinkedIn content systems and ads) | Free advice that someone resold | Self-roast confession | "Apparently, I'm an idiot." | 7/9 (misses: an ending for the reader, a visual. Text only and still did well) | 272 reactions, 67 comments, 2 reposts (18h old) | The hook is a 4-word self-roast, impossible to scroll past. The story is specific (Instagram, "book a consultation + carousel", "under their own name, of course"). She admits a real doubt: whether her knowledge is worth charging for. Then two mirror lines do the work: "They got a product to sell. I got a lesson about boundaries." Almost every freelancer has lived this, so 67 people commented with their own story. |
 | 2026-10-19 | `swipe/others/2026-10-19-alisha-m-24k-milestone.png` | Alisha M. (HR and talent acquisition) | Reaching 24K followers after a slow month | Milestone thank-you | "The same account that felt stuck for weeks just reached 260K+ impressions on one post in two days" | 8/9 (misses: a reframe line people would repost) | 251 reactions, **202 comments**, 13 reposts | The hook pairs the win with the struggle before it, so it reads as earned, not bragging. Honest low point in short lines ("The views were low. The likes were quiet."). Real numbers for both the slow part and the easy part. She admits she doesn't know why it changed, which feels human. She thanks people for specific things, including people who disagreed. The last line is a question anyone can answer in two seconds ("How did we first connect here?"), so comments are 80% of reactions. Face photo with "24K FOLLOWERS, thank you for being here" and her analytics chart as proof. |
 | 2026-10-15 | `swipe/others/2026-10-15-magali-de-reu-adhd.png` | Magali De Reu (LinkedIn ghostwriter for coaches and founders) | ADHD, being good at hard things and bad at easy things | Mirror lists | "I'm 36. A woman born with ADHD. On LinkedIn, it has me killing it. But the second I close the laptop, it starts killing ME:" | 9/9 | 691 reactions, 247 comments, 5 reposts (1 week old) | The hook packs age, identity and a flip ("killing it" / "killing ME") into two lines. The two lists mirror each other, so the contrast does the work without explaining. The fail list is tiny, real stuff (wet laundry for 3 days, a parking ticket that doubled, "answer clients in 4 minutes, friends in 4 days") that people recognise in themselves. It ends on the reader ("before you call someone lazy, ask yourself") and raises the stakes ("the next 30 years"). A plain face photo, no design, feels personal. Comments are 36% of reactions, which is very high: people replied with their own story. |
@@ -111,6 +128,8 @@ The job hunt post ends three times: "If you're going through the same thing...",
 **Rewrite example:** `content/posts/linkedin/2026-10-15-still-job-hunting-v2.md` is the job hunt post with all three fixes.
 
 ## Patterns across the winners
+- **A named source beats a big claim.** Ghofrane cites the report by name and year. Use real stats with the source in the post, never a made-up number.
+- **Reassurance gets comments.** Posts that calm a common fear (low engagement, slow growth) get people saying "I needed this today".
 - **Text-only can win** when the story is sharp. Daria's post had no image and got 272 reactions and 67 comments. Short lines, a self-roast hook and mirror lines carried it.
 - **Mirror lines get quoted:** "They got a product to sell. I got a lesson about boundaries."
 - **The easiest question gets the most comments.** Alisha's "How did we first connect here?" got 202 comments. Questions about the reader's own life beat questions that need an opinion.
